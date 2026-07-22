@@ -1,0 +1,1398 @@
+Record_ID,Observation_Date,Region,District,Forest_Type,Forest_Area_ha,Tree_Cover_Loss_ha,Annual_Rainfall_mm,Population_Density,Fire_Incidents,Illegal_Logging,Deforestation_Risk
+REC00001,2024-06-27,Central,Wakiso,Mangrove,4179.46,235.27,1358.1,657,16,Yes,High
+REC00002,2021-04-30,Eastern,Mbale,Mangrove,2072.03,14.36,1605.3,266,25,Yes,High
+REC00003,2022-01-20,Central,Mukono,Woodland,7417.11,543.23,1471.4,245,16,Yes,High
+REC00004,2021-07-17,Western,Mbarara,Montane Forest,5260.01,281.86,1609.9,434,11,Yes,High
+REC00005,2023-07-07,Eastern,Mbale,Dry Forest,9793.89,575.77,1353.5,647,6,No,High
+REC00006,2021-03-01,Western,Kabale,Woodland,4135.47,288.34,1678.5,375,3,No,Medium
+REC00007,2023-03-13,Western,Mbarara,Mangrove,6901.65,195.05,1342.0,720,1,Yes,Medium
+REC00008,2021-04-03,Central,Wakiso,Dry Forest,1159.8,10.3,1237.6,299,15,Yes,High
+REC00009,2023-05-16,Eastern,Mbale,Dry Forest,1524.61,119.37,2116.3,765,1,Yes,Medium
+REC00010,2023-05-23,Central,Mukono,Tropical Rainforest,9435.85,541.24,1244.4,549,0,Yes,High
+REC00012,2021-12-19,Eastern,Mbale,Woodland,1340.77,87.71,2265.2,468,1,No,Low
+REC00013,2023-12-31,Western,Kabale,Woodland,8353.18,287.48,2184.0,401,0,Yes,Medium
+REC00014,2022-02-27,Western,Kabale,Mangrove,8015.17,33.79,1526.9,190,10,No,Low
+REC00015,2023-05-31,Northern,Gulu,Tropical Rainforest,4843.86,19.27,2007.3,520,11,No,Low
+REC00016,2024-04-28,Western,Kabale,Montane Forest,1245.95,56.68,855.7,300,1,No,Low
+REC00017,2024-03-19,Central,Wakiso,Woodland,4769.6,252.36,1900.3,598,16,Yes,High
+REC00018,2021-07-15,Northern,Gulu,Woodland,6298.88,70.23,897.2,128,9,Yes,Low
+REC00019,2023-05-18,Western,Mbarara,Dry Forest,9667.81,300.61,1641.2,241,2,Yes,High
+REC00020,2024-04-06,Central,Wakiso,Dry Forest,9035.0,9.99,730.4,92,3,Yes,Low
+REC00022,2023-10-25,Eastern,Mbale,Tropical Rainforest,1700.17,4.09,1122.9,689,10,Yes,Low
+REC00023,2023-07-15,Northern,Gulu,Dry Forest,9333.34,541.51,2098.5,579,4,No,High
+REC00024,2024-10-10,Western,Mbarara,Mangrove,9268.75,109.61,2002.5,853,25,No,Medium
+REC00025,2022-05-04,Western,Kabale,Dry Forest,7808.61,50.34,2379.7,826,24,No,Low
+REC00026,2024-11-30,Central,Wakiso,Mangrove,2030.3,114.17,2462.6,263,6,No,Medium
+REC00027,2022-01-22,Western,Mbarara,Mangrove,5094.16,221.53,1052.1,152,16,Yes,High
+REC00028,2023-12-07,Western,Mbarara,Tropical Rainforest,137.35,5.88,2106.6,330,4,Yes,Low
+REC00029,2022-01-25,Western,Mbarara,Woodland,8636.12,321.09,1859.6,511,8,No,High
+REC00030,2023-03-12,Central,Wakiso,Montane Forest,524.21,7.9,1121.7,135,21,No,Low
+REC00032,2021-10-14,Central,Mukono,Dry Forest,9556.61,427.68,2090.0,534,2,No,High
+REC00033,2024-08-13,Western,Kabale,Dry Forest,3881.38,135.54,2370.2,399,12,No,Medium
+REC00034,2021-09-01,Eastern,Mbale,Woodland,3362.85,101.04,1203.8,108,4,No,Medium
+REC00035,2021-11-02,Central,Wakiso,Dry Forest,9155.49,330.63,1956.5,363,7,Yes,High
+REC00036,2022-01-15,Northern,Gulu,Plantation,3958.16,156.65,1734.7,610,6,Yes,Medium
+REC00037,2021-05-31,Eastern,Mbale,Mangrove,2101.62,156.43,871.0,653,21,No,Medium
+REC00038,2021-05-11,Western,Kabale,Plantation,3181.47,65.04,1914.9,789,2,Yes,Low
+REC00039,2023-05-08,Western,Kabale,Tropical Rainforest,5530.28,154.05,1729.1,137,3,No,Medium
+REC00040,2023-05-16,Western,Mbarara,Dry Forest,2980.84,26.12,2120.2,689,16,Yes,High
+REC00041,31-13-2024,Central,Mukono,Woodland,8566.75,370.11,1122.7,768,19,No,High
+REC00042,2021-06-25,Eastern,Mbale,Montane Forest,8555.22,406.42,1248.1,735,9,Yes,High
+REC00043,2023-08-02,Central,Mukono,Woodland,3487.49,171.96,1942.8,576,7,No,Medium
+REC00044,2024-08-03,Central,Mukono,Woodland,4142.98,113.75,937.0,370,16,Yes,High
+REC00045,2022-07-02,Northern,Gulu,Woodland,8447.76,288.47,1739.8,220,25,No,Medium
+REC00046,2023-01-31,Central,Mukono,Tropical Rainforest,7465.89,558.29,1204.3,141,5,Yes,High
+REC00047,2022-04-18,Western,Mbarara,Dry Forest,6883.71,15.47,1187.2,431,14,Yes,High
+REC00048,2024-02-22,Eastern,Mbale,Woodland,4400.91,51.55,1076.5,159,13,Yes,High
+REC00049,2021-09-22,Eastern,Mbale,Mangrove,9656.38,218.49,1119.6,747,14,No,Medium
+REC00050,2023-07-16,Western,Mbarara,Woodland,3153.41,86.42,2247.6,547,22,No,Low
+REC00051,2021-03-03,Eastern,Mbale,Dry Forest,8240.84,633.55,1200mm,708,4,Yes,High
+REC00052,2021-03-07,Central,Wakiso,Dry Forest,3278.87,218.16,2404.9,469,2,No,Medium
+REC00053,2021-11-29,Western,Kabale,Woodland,4641.12,186.71,1102.9,116,1,No,Medium
+REC00054,2023-09-27,Eastern,Mbale,Woodland,2927.23,126.26,1763.9,378,12,Yes,High
+REC00055,2024-08-18,Eastern,Mbale,Woodland,8103.12,72.05,1417.3,257,20,Yes,High
+REC00056,2023-07-24,Central,Wakiso,Plantation,2700.65,124.56,1969.9,568,4,Yes,Medium
+REC00057,2021-03-18,Central,Mukono,Montane Forest,8610.77,681.5,2267.6,323,22,No,High
+REC00058,2024-05-10,Central,Mukono,Montane Forest,3840.53,1.08,1381.9,686,3,No,Low
+REC00059,2023-07-26,Northern,Gulu,Plantation,280.47,7.29,1321.3,417,13,No,Low
+REC00060,2022-05-20,Western,Kabale,Mangrove,5066.14,267.23,830.8,393,15,Yes,High
+REC00061,2022-08-28,Central,Wakiso,Woodland,964.78,1.58,1082.6,many,11,No,Low
+REC00062,2024-05-13,Western,Kabale,Woodland,1222.43,67.72,1416.5,60,24,No,Low
+REC00063,2022-05-05,Eastern,Mbale,Mangrove,4052.9,173.27,1639.6,585,21,No,Medium
+REC00064,2023-05-21,Western,Mbarara,Montane Forest,1372.67,80.04,1868.3,566,6,Yes,Low
+REC00065,2024-01-30,Eastern,Mbale,Woodland,1775.37,98.62,1717.6,424,10,Yes,Low
+REC00066,2021-01-26,Northern,Gulu,Plantation,1440.41,87.95,2475.9,148,15,Yes,High
+REC00067,2023-10-27,Western,Mbarara,Woodland,2561.8,136.6,2167.4,890,5,Yes,Medium
+REC00068,2022-11-17,Eastern,Mbale,Plantation,9363.98,277.73,1211.6,808,6,No,Medium
+REC00069,2021-03-12,Central,Wakiso,Dry Forest,9840.85,159.33,1334.5,488,8,No,Medium
+REC00070,2024-01-01,Central,Wakiso,Woodland,4119.94,106.15,1395.9,790,12,No,Medium
+REC00071,2022-12-07,Central,Mukono,Woodland,7902.01,339.49,1769.5,729,9,Maybe,High
+REC00072,2022-09-23,Western,Mbarara,Woodland,2682.86,111.02,1845.0,583,19,Yes,High
+REC00073,2023-05-09,Eastern,Mbale,Woodland,8363.66,507.87,1466.3,796,1,No,High
+REC00074,2023-11-09,Eastern,Mbale,Tropical Rainforest,4207.46,52.3,1579.1,319,24,Yes,High
+REC00075,2023-08-05,Eastern,Mbale,Mangrove,8102.41,571.37,2257.6,807,17,Yes,High
+REC00076,2022-06-09,Central,Wakiso,Dry Forest,6291.19,91.0,945.8,883,11,No,Low
+REC00077,2021-02-27,Northern,Gulu,Woodland,6753.56,538.97,1082.8,696,6,Yes,High
+REC00078,2024-10-30,Central,Wakiso,Mangrove,4331.02,109.07,1911.3,337,0,No,Medium
+REC00079,2022-05-23,Northern,Gulu,Montane Forest,6554.01,490.72,801.7,822,25,No,High
+REC00080,2023-04-08,Central,Mukono,Montane Forest,1682.14,78.32,1604.3,789,13,No,Low
+REC00081,2021-02-16,Western,Kabale,Woodland,628.66,-500.0,2283.9,765,6,No,Low
+REC00082,2022-11-30,Northern,Gulu,Mangrove,3788.71,36.89,1698.4,384,19,Yes,High
+REC00083,2022-10-10,Eastern,Mbale,Woodland,5524.86,385.19,1549.4,114,19,No,High
+REC00084,2023-01-10,Central,Wakiso,Dry Forest,8578.89,638.4,2018.8,65,15,Yes,High
+REC00085,2022-05-17,Eastern,Mbale,Montane Forest,6107.8,392.06,1706.5,273,10,Yes,High
+REC00086,2024-09-19,Western,Kabale,Woodland,5701.68,55.61,2123.9,859,16,No,Low
+REC00087,2022-12-24,Western,Kabale,Montane Forest,5624.57,73.64,774.7,406,25,No,Low
+REC00088,2024-09-11,Western,Mbarara,Dry Forest,4981.92,285.62,950.4,275,0,Yes,Medium
+REC00089,2024-02-23,Western,Kabale,Tropical Rainforest,7249.7,438.89,1219.2,456,24,Yes,High
+REC00090,2021-05-24,Central,Mukono,Tropical Rainforest,2237.34,123.57,1122.5,632,0,No,Medium
+REC00091,2023-11-05,Central,Mukono,Plantation,3490.26,241.05,99999,239,7,Yes,Medium
+REC00092,2024-05-18,Eastern,Mbale,Tropical Rainforest,2655.37,115.24,2357.1,627,17,No,Medium
+REC00093,2023-07-09,Central,Mukono,Woodland,7033.91,327.65,1975.9,374,22,Yes,High
+REC00094,2021-03-07,Western,Kabale,Tropical Rainforest,2046.18,106.9,1474.5,523,8,No,Medium
+REC00095,2021-01-29,Northern,Gulu,Mangrove,6438.9,385.34,1105.7,68,0,Yes,High
+REC00096,2022-10-29,Northern,Gulu,Plantation,7718.83,171.94,773.7,695,18,Yes,High
+REC00097,2024-04-12,Central,Wakiso,Tropical Rainforest,3586.33,98.62,2328.4,724,12,Yes,High
+REC00098,2023-02-17,Eastern,Mbale,Mangrove,7498.28,312.33,1035.1,119,7,Yes,High
+REC00099,2022-10-02,Central,Mukono,Plantation,2762.98,149.36,1664.5,208,1,No,Medium
+REC00100,2024-06-13,Northern,Gulu,Dry Forest,3317.75,260.66,1186.8,186,23,Yes,High
+REC00101,2021-12-03,Western,Kabale,Woodland,5540.2,280.69,1092.9,759,23,No,Medium
+REC00102,2022-11-06,Western,Mbarara,Woodland,8585.31,88.56,2304.3,837,11,No,Low
+REC00103,2024-05-15,Northern,Gulu,Woodland,8823.2,458.28,2397.5,568,25,Yes,High
+REC00104,2024-07-29,Eastern,Mbale,Mangrove,683.23,20.03,1250.6,59,18,No,Low
+REC00105,2024-05-02,Central,Wakiso,Dry Forest,6708.84,67.58,883.8,755,7,Yes,Low
+REC00106,2022-09-05,Central,Wakiso,Mangrove,6501.36,83.63,1797.2,536,13,Yes,High
+REC00107,2024-10-04,Eastern,Mbale,Plantation,7515.42,275.58,962.1,290,17,No,Medium
+REC00108,2024-02-19,Western,Mbarara,Woodland,8865.77,704.34,1412.7,140,16,No,High
+REC00109,2021-12-17,Western,Kabale,Woodland,1595.0,112.15,766.0,121,4,No,Medium
+REC00110,2023-11-19,Western,Kabale,Mangrove,1161.69,48.28,1011.8,114,1,Yes,Low
+REC00111,2024-08-20,Western,Mbarara,Dry Forest,2077.08,106.05,1573.4,878,0,Yes,Medium
+REC00112,2024-03-06,Western,Kabale,Dry Forest,5212.79,397.41,2154.4,118,14,Yes,High
+REC00113,2021-04-01,Northern,Gulu,Mangrove,9342.78,206.94,2087.9,619,22,No,Medium
+REC00114,2021-11-20,Western,Mbarara,Plantation,1523.34,68.45,1899.1,65,11,No,Low
+REC00115,2024-06-06,Western,Mbarara,Montane Forest,2086.44,9.41,1572.9,199,18,Yes,High
+REC00116,2024-05-21,Northern,Gulu,Mangrove,4820.96,92.72,1339.4,469,17,Yes,High
+REC00117,2023-10-08,Western,Kabale,Woodland,6973.81,389.73,2218.4,206,17,Yes,High
+REC00118,2022-09-24,Western,Mbarara,Woodland,5843.75,224.9,1937.2,899,23,No,Medium
+REC00119,2024-04-21,Western,Kabale,Plantation,5551.8,284.52,1746.0,64,4,No,Medium
+REC00120,2021-04-03,Western,Mbarara,Tropical Rainforest,4892.38,102.1,1024.7,692,11,No,Medium
+REC00121,2024-08-20,Central,Mukono,Montane Forest,4141.3,235.18,1727.0,463,10,No,Medium
+REC00122,2023-08-10,Northern,Gulu,Montane Forest,8655.62,199.92,2426.5,242,10,No,Medium
+REC00123,2022-10-01,Western,Mbarara,Dry Forest,664.09,26.36,1514.9,624,20,Yes,High
+REC00124,2023-07-22,Western,Kabale,Woodland,3968.01,171.56,1027.4,223,18,Yes,High
+REC00125,2022-12-14,Western,Kabale,Montane Forest,2375.25,37.74,2349.7,366,20,Yes,High
+REC00126,2021-03-11,Northern,Gulu,Woodland,820.67,58.1,1822.9,712,25,No,Low
+REC00127,2023-07-09,Western,Kabale,Montane Forest,299.87,20.56,2003.7,316,18,Yes,High
+REC00128,2022-03-29,Central,Wakiso,Tropical Rainforest,8778.96,77.02,2182.1,821,5,No,Low
+REC00129,2023-11-08,Western,Mbarara,Plantation,8174.85,38.89,1967.5,726,24,No,Low
+REC00130,2021-11-20,Central,Mukono,Plantation,603.18,31.64,872.3,207,5,No,Low
+REC00131,2024-10-07,Central,Mukono,Mangrove,9188.58,397.43,2293.3,407,15,No,High
+REC00132,2024-05-31,Northern,Gulu,Dry Forest,7950.94,614.88,2088.8,755,18,Yes,High
+REC00133,2023-07-23,Western,Mbarara,Plantation,2424.06,45.45,2421.9,188,8,No,Low
+REC00134,2022-05-19,Western,Kabale,Plantation,720.37,6.71,729.2,400,7,Yes,Low
+REC00135,2023-09-14,Western,Kabale,Montane Forest,6592.52,512.27,1014.4,641,8,No,High
+REC00136,2022-03-05,Central,Wakiso,Tropical Rainforest,682.11,33.57,1279.1,72,20,Yes,High
+REC00137,2021-08-26,Central,Mukono,Plantation,146.93,7.46,2343.1,280,13,No,Low
+REC00138,2021-04-12,Northern,Gulu,Plantation,1878.8,150.1,1208.5,743,9,Yes,Medium
+REC00139,2024-02-12,Western,Kabale,Woodland,231.16,0.94,1731.8,637,7,No,Low
+REC00140,2021-05-02,Eastern,Mbale,Tropical Rainforest,7995.51,531.58,1036.9,228,13,No,High
+REC00141,2023-07-29,Central,Wakiso,Plantation,7808.0,485.31,1293.0,804,5,Yes,High
+REC00142,2023-09-08,Central,Mukono,Plantation,6256.88,196.61,1185.2,829,20,Yes,High
+REC00143,2021-03-16,Central,Wakiso,Dry Forest,7124.72,547.01,2394.3,454,6,Yes,High
+REC00144,2021-12-07,Central,Wakiso,Plantation,5887.67,317.28,911.5,418,9,Yes,High
+REC00145,2023-06-26,Central,Mukono,Plantation,248.99,15.45,1139.6,672,25,Yes,High
+REC00146,2023-10-21,Central,Wakiso,Mangrove,3401.62,1.37,2301.8,194,3,Yes,Low
+REC00147,2024-03-24,Western,Kabale,Tropical Rainforest,6549.1,258.38,1400.5,531,2,No,Medium
+REC00148,2024-02-17,Northern,Gulu,Plantation,4228.43,152.28,975.7,536,21,Yes,High
+REC00149,2021-08-14,Western,Mbarara,Tropical Rainforest,5620.52,182.43,1335.1,524,10,Yes,Medium
+REC00150,2022-02-13,Eastern,Mbale,Plantation,8493.31,20.45,1729.2,881,5,No,Low
+REC00151,2022-06-20,Northern,Gulu,Plantation,7789.22,450.73,703.4,235,3,No,High
+REC00152,2024-02-04,Western,Mbarara,Woodland,2523.22,72.38,1766.4,626,22,Yes,High
+REC00153,2024-02-08,Central,Wakiso,Dry Forest,2892.07,100.0,2412.2,570,15,No,Low
+REC00154,2023-09-22,Eastern,Mbale,Dry Forest,768.51,32.01,2122.7,228,23,No,Low
+REC00155,2024-04-26,Central,Wakiso,Tropical Rainforest,167.58,4.72,1469.9,85,25,Yes,High
+REC00156,2024-09-19,Central,Wakiso,Dry Forest,5201.02,406.38,1407.2,62,16,Yes,High
+REC00157,2023-12-29,Western,Mbarara,Plantation,2035.93,91.25,1530.4,310,19,No,Low
+REC00158,2023-10-23,Western,Kabale,Plantation,3716.94,104.28,1153.0,581,0,Yes,Medium
+REC00159,2022-05-04,Central,Wakiso,Mangrove,6138.1,293.04,1765.6,829,8,No,Medium
+REC00160,2022-06-23,Northern,Gulu,Plantation,7811.71,296.45,1128.4,453,7,Yes,Medium
+REC00161,2022-08-16,Western,Kabale,Montane Forest,9268.34,404.14,1576.4,56,13,Yes,High
+REC00162,2022-03-23,Northern,Gulu,Montane Forest,6854.7,47.45,1915.4,43,15,Yes,High
+REC00163,2022-07-02,Northern,Gulu,Tropical Rainforest,8084.9,124.44,1596.9,529,9,Yes,Medium
+REC00164,2021-07-24,Central,Mukono,Dry Forest,7729.35,540.07,1924.0,619,3,No,High
+REC00165,2023-11-24,Western,Kabale,Plantation,6175.66,214.88,1340.9,700,23,Yes,High
+REC00166,2022-03-05,Northern,Gulu,Woodland,2269.3,88.32,1482.9,718,1,No,Low
+REC00167,2022-05-05,Eastern,Mbale,Montane Forest,5952.82,33.01,1929.8,703,22,Yes,High
+REC00168,2024-11-28,Northern,Gulu,Plantation,4997.01,355.18,2274.5,780,7,No,High
+REC00169,2022-05-03,Central,Wakiso,Tropical Rainforest,4107.92,242.17,2144.2,157,24,Yes,High
+REC00170,2022-04-04,Western,Kabale,Montane Forest,7837.93,179.17,1055.3,360,21,Yes,High
+REC00171,2024-08-27,Western,Mbarara,Plantation,3454.39,163.93,2056.6,771,20,Yes,High
+REC00172,2022-03-02,Western,Mbarara,Tropical Rainforest,7879.82,160.08,2067.1,213,4,No,Medium
+REC00173,2024-01-29,Central,Wakiso,Tropical Rainforest,687.68,17.87,804.9,323,16,No,Low
+REC00174,2024-04-29,Eastern,Mbale,Tropical Rainforest,7796.73,173.39,1825.8,739,11,No,Medium
+REC00175,2023-02-09,Central,Wakiso,Woodland,1742.51,88.15,2382.7,875,15,Yes,High
+REC00176,2021-04-30,Western,Kabale,Montane Forest,1005.13,39.2,1101.0,253,5,Yes,Low
+REC00177,2021-04-05,Central,Mukono,Mangrove,3364.61,49.23,1917.3,424,15,No,Low
+REC00178,2024-10-25,Eastern,Mbale,Dry Forest,1562.24,46.56,1682.9,558,3,Yes,Low
+REC00179,2022-01-13,Eastern,Mbale,Tropical Rainforest,732.9,6.31,2297.4,133,22,Yes,High
+REC00180,2022-01-01,Central,Wakiso,Montane Forest,7348.36,413.81,1697.5,687,25,No,High
+REC00181,2021-08-21,Western,Mbarara,Dry Forest,6525.54,98.46,1761.8,699,17,Yes,High
+REC00182,2021-01-01,Central,Wakiso,Montane Forest,1567.13,121.89,1749.9,291,1,No,Medium
+REC00183,2021-06-26,Eastern,Mbale,Tropical Rainforest,3121.76,65.09,1965.6,834,18,Yes,High
+REC00184,2024-04-01,Northern,Gulu,Plantation,467.76,26.48,1401.8,644,14,No,Low
+REC00185,2024-09-22,Central,Wakiso,Woodland,2875.4,142.1,934.5,607,15,Yes,High
+REC00186,2021-12-28,Central,Wakiso,Tropical Rainforest,8945.79,117.5,1574.6,749,7,Yes,Medium
+REC00187,2023-09-05,Central,Mukono,Mangrove,6489.27,144.38,814.3,623,20,Yes,High
+REC00188,2022-05-18,Central,Mukono,Dry Forest,5041.42,320.77,1443.3,670,0,Yes,High
+REC00189,2021-07-21,Central,Mukono,Montane Forest,1488.02,81.23,898.3,596,18,Yes,High
+REC00190,2024-07-17,Western,Mbarara,Mangrove,9869.54,377.91,1962.6,496,10,Yes,High
+REC00191,2021-05-08,Central,Mukono,Plantation,1395.27,74.73,1370.4,702,7,Yes,Low
+REC00192,2021-03-15,Western,Kabale,Mangrove,4388.79,86.36,1135.9,36,2,No,Low
+REC00193,2021-09-28,Central,Wakiso,Tropical Rainforest,3551.96,228.3,1207.8,613,15,Yes,High
+REC00194,2021-02-17,Western,Mbarara,Woodland,2975.3,70.15,1326.0,896,25,Yes,High
+REC00195,2021-05-24,Western,Kabale,Tropical Rainforest,5408.16,251.94,1631.6,549,4,No,Medium
+REC00196,2022-10-12,Central,Mukono,Woodland,6188.43,103.2,1660.3,170,0,No,Medium
+REC00197,2021-04-18,Northern,Gulu,Tropical Rainforest,3761.61,63.42,1930.2,527,15,Yes,High
+REC00198,2023-09-19,Northern,Gulu,Plantation,1476.08,82.67,1585.0,622,16,Yes,High
+REC00199,2024-12-13,Western,Mbarara,Tropical Rainforest,3061.15,120.24,2112.0,211,11,No,Medium
+REC00200,2022-10-17,Western,Kabale,Tropical Rainforest,6557.89,75.63,888.3,777,9,No,Low
+REC00201,2024-12-12,Western,Mbarara,Montane Forest,4082.87,4.12,1789.1,63,18,Yes,High
+REC00202,2024-10-28,Western,Mbarara,Tropical Rainforest,7318.54,330.51,2175.4,318,9,No,High
+REC00203,2021-05-29,Northern,Gulu,Mangrove,4444.17,53.01,2030.7,716,13,Yes,High
+REC00204,2024-09-30,Central,Mukono,Plantation,4581.93,213.74,1012.7,370,0,No,Medium
+REC00205,2024-04-08,Eastern,Mbale,Montane Forest,8167.05,293.02,830.3,784,16,Yes,High
+REC00206,2022-04-20,Central,Wakiso,Plantation,5553.29,8.3,1025.0,517,18,No,Low
+REC00207,2023-01-10,Central,Mukono,Plantation,1331.86,93.52,2092.9,480,0,Yes,Low
+REC00208,2021-05-25,Northern,Gulu,Mangrove,8970.71,563.49,1821.4,811,17,No,High
+REC00209,2023-01-20,Central,Wakiso,Tropical Rainforest,1832.21,119.2,1628.8,69,11,No,Medium
+REC00210,2022-01-20,Northern,Gulu,Montane Forest,7457.67,16.87,2404.1,774,14,No,Low
+REC00211,2024-09-26,Northern,Gulu,Plantation,2657.95,111.66,2272.3,144,15,Yes,High
+REC00212,2023-09-01,Central,Wakiso,Tropical Rainforest,8560.14,675.8,1060.6,763,6,No,High
+REC00213,2021-05-22,Northern,Gulu,Tropical Rainforest,4245.5,159.6,1794.1,212,12,Yes,High
+REC00214,2023-07-27,Western,Mbarara,Dry Forest,8865.39,493.52,1342.4,660,5,No,High
+REC00215,2021-02-28,Eastern,Mbale,Woodland,6595.68,149.92,750.5,828,14,No,Medium
+REC00216,2023-08-03,Northern,Gulu,Woodland,3448.77,171.74,1516.6,740,16,Yes,High
+REC00217,2023-11-26,Northern,Gulu,Montane Forest,4576.39,151.74,859.7,581,5,No,Medium
+REC00218,2023-04-17,Central,Mukono,Tropical Rainforest,8654.68,459.81,845.9,212,14,No,High
+REC00219,2023-03-20,Northern,Gulu,Montane Forest,4789.41,353.41,1519.8,350,15,Yes,High
+REC00220,2023-07-24,Western,Kabale,Tropical Rainforest,7205.97,448.31,2148.0,649,10,Yes,High
+REC00221,2022-02-28,Northern,Gulu,Plantation,7905.38,385.2,2030.1,687,17,No,High
+REC00222,2021-03-29,Eastern,Mbale,Plantation,1460.53,86.27,1034.7,241,21,No,Low
+REC00223,2022-09-01,Western,Mbarara,Tropical Rainforest,6833.21,489.3,865.6,414,10,No,High
+REC00224,2024-03-26,Western,Mbarara,Woodland,3060.62,198.51,1126.4,842,14,No,Medium
+REC00225,2022-11-12,Central,Wakiso,Woodland,9600.27,122.79,2374.5,362,22,No,Medium
+REC00226,2022-09-28,Western,Kabale,Plantation,7056.22,495.09,810.8,105,16,No,High
+REC00227,2023-03-25,Western,Kabale,Tropical Rainforest,6486.42,499.67,2441.7,264,22,No,High
+REC00228,2021-11-19,Western,Kabale,Montane Forest,8987.92,462.74,923.2,847,12,No,High
+REC00229,2022-07-26,Central,Wakiso,Montane Forest,9327.46,155.32,1610.0,579,21,No,Medium
+REC00230,2022-10-05,Eastern,Mbale,Tropical Rainforest,6769.81,522.92,989.7,773,24,Yes,High
+REC00231,2023-04-09,Central,Mukono,Woodland,1421.12,4.79,1170.2,836,13,Yes,High
+REC00232,2021-07-23,Eastern,Mbale,Montane Forest,7797.16,103.02,2387.4,138,22,No,Medium
+REC00233,2023-11-24,Western,Mbarara,Mangrove,5400.82,183.15,1771.6,756,6,No,Medium
+REC00234,2023-01-22,Northern,Gulu,Woodland,7079.05,22.07,2338.1,710,9,No,Low
+REC00235,2023-05-31,Western,Mbarara,Mangrove,3309.62,185.32,771.6,803,23,No,Medium
+REC00236,2022-02-17,Western,Kabale,Tropical Rainforest,9646.3,301.82,2406.3,742,19,Yes,High
+REC00237,2022-01-19,Western,Mbarara,Tropical Rainforest,9347.23,28.05,1402.8,156,12,No,Low
+REC00238,2022-06-06,Western,Kabale,Mangrove,5138.95,373.79,1469.6,898,15,Yes,High
+REC00239,2021-01-07,Eastern,Mbale,Woodland,884.77,6.8,2291.4,663,19,No,Low
+REC00240,2023-02-25,Central,Wakiso,Woodland,8549.93,525.85,761.3,604,24,No,High
+REC00241,2024-05-19,Central,Wakiso,Montane Forest,5011.96,363.05,1774.7,484,10,Yes,High
+REC00242,2022-09-18,Eastern,Mbale,Montane Forest,1787.21,9.1,1766.9,537,13,Yes,High
+REC00243,2023-06-03,Central,Mukono,Mangrove,9741.11,643.07,1866.5,571,11,Yes,High
+REC00244,2023-04-26,Eastern,Mbale,Woodland,2028.63,94.6,869.4,209,8,Yes,Low
+REC00245,2021-04-16,Northern,Gulu,Montane Forest,446.82,10.94,2273.1,431,8,Yes,Low
+REC00246,2024-01-02,Western,Mbarara,Tropical Rainforest,6420.7,238.05,2326.2,148,8,No,Medium
+REC00247,2021-12-26,Central,Mukono,Dry Forest,8478.56,462.32,1875.5,673,22,Yes,High
+REC00248,2024-03-31,Western,Mbarara,Tropical Rainforest,1220.49,46.15,1175.5,374,4,Yes,Low
+REC00249,2022-09-10,Northern,Gulu,Montane Forest,8795.13,535.83,1714.6,820,11,Yes,High
+REC00250,2021-08-23,Eastern,Mbale,Plantation,1048.86,9.64,1330.3,432,1,Yes,Low
+REC00251,2023-05-23,Western,Kabale,Mangrove,7113.07,555.49,827.3,246,24,No,High
+REC00252,2021-05-27,Western,Mbarara,Woodland,5565.34,266.32,2343.8,162,23,No,Medium
+REC00253,2023-06-09,Central,Mukono,Woodland,4681.85,189.48,1893.9,845,3,Yes,Medium
+REC00254,2023-10-14,Northern,Gulu,Mangrove,4983.67,311.54,1834.6,323,2,No,High
+REC00255,2022-04-22,Eastern,Mbale,Plantation,7349.63,371.18,1834.7,196,16,No,High
+REC00256,2024-07-30,Western,Kabale,Montane Forest,8467.9,272.3,2033.0,433,9,No,Medium
+REC00257,2022-07-06,Western,Kabale,Plantation,9588.0,762.79,844.5,793,11,Yes,High
+REC00258,2023-03-23,Western,Mbarara,Tropical Rainforest,8218.07,598.68,2482.3,152,2,No,High
+REC00259,2024-11-13,Central,Mukono,Montane Forest,8597.44,133.52,991.0,776,11,Yes,High
+REC00260,2023-07-17,Eastern,Mbale,Plantation,7771.7,513.72,2062.7,173,24,No,High
+REC00261,2023-05-20,Central,Mukono,Montane Forest,310.12,3.92,1159.6,305,23,Yes,High
+REC00262,2023-09-23,Central,Mukono,Tropical Rainforest,7986.01,399.83,1791.1,488,24,Yes,High
+REC00263,2021-05-15,Western,Kabale,Tropical Rainforest,7110.41,157.31,2348.2,301,24,No,Medium
+REC00264,2022-04-13,Central,Wakiso,Plantation,9812.2,187.02,2273.9,486,19,No,Medium
+REC00265,2024-03-11,Central,Wakiso,Plantation,2766.58,178.57,1790.2,107,8,Yes,Medium
+REC00266,2021-08-27,Eastern,Mbale,Dry Forest,8972.07,707.87,1659.2,321,2,No,High
+REC00267,2023-01-27,Central,Wakiso,Plantation,3099.58,59.55,2455.8,565,23,Yes,High
+REC00268,2023-11-24,Western,Kabale,Plantation,3276.45,150.15,2437.0,462,22,No,Medium
+REC00269,2021-07-03,Western,Mbarara,Woodland,1632.88,6.21,1745.9,674,11,No,Low
+REC00270,2022-09-14,Central,Mukono,Montane Forest,9680.71,678.59,1848.6,512,20,Yes,High
+REC00271,2023-10-22,Western,Kabale,Mangrove,5578.04,414.38,1765.9,445,23,Yes,High
+REC00272,2021-03-22,Western,Kabale,Mangrove,8893.17,452.45,1235.9,158,25,Yes,High
+REC00273,2023-03-30,Western,Kabale,Plantation,4924.39,216.42,2478.3,505,10,Yes,Medium
+REC00274,2022-04-27,Central,Wakiso,Dry Forest,8669.85,664.21,1353.1,642,8,No,High
+REC00275,2024-04-02,Eastern,Mbale,Plantation,5259.55,234.79,782.1,812,0,No,Medium
+REC00276,2021-04-03,Central,Wakiso,Dry Forest,3151.77,222.55,1967.2,591,16,Yes,High
+REC00277,2022-06-28,Eastern,Mbale,Plantation,1123.73,4.17,891.2,368,0,Yes,Low
+REC00278,2022-10-01,Western,Kabale,Tropical Rainforest,495.39,31.21,1154.4,456,23,Yes,High
+REC00279,2024-04-25,Western,Kabale,Woodland,3572.07,10.27,1380.8,831,13,No,Low
+REC00280,2024-05-05,Western,Kabale,Plantation,2164.33,16.54,1866.4,566,13,Yes,High
+REC00281,2022-08-07,Western,Kabale,Tropical Rainforest,1588.84,74.82,2227.7,418,0,No,Low
+REC00282,2023-03-06,Western,Kabale,Dry Forest,3574.15,52.41,782.3,895,16,No,Low
+REC00283,2024-08-02,Northern,Gulu,Tropical Rainforest,1707.19,97.66,2284.3,179,5,Yes,Low
+REC00284,2024-03-10,Northern,Gulu,Tropical Rainforest,8182.46,350.89,2362.4,460,1,Yes,High
+REC00285,2023-10-05,Western,Mbarara,Plantation,3446.57,171.24,771.7,589,25,Yes,High
+REC00286,2023-04-08,Western,Mbarara,Plantation,6497.25,26.92,1611.1,432,16,Yes,High
+REC00287,2024-11-20,Central,Wakiso,Dry Forest,3180.68,34.91,1642.5,271,11,Yes,High
+REC00288,2022-11-11,Northern,Gulu,Tropical Rainforest,677.21,15.18,2354.5,587,0,No,Low
+REC00289,2023-05-26,Northern,Gulu,Tropical Rainforest,9691.94,390.09,2099.6,310,10,Yes,High
+REC00290,2021-07-15,Eastern,Mbale,Tropical Rainforest,312.73,18.34,1290.6,731,2,Yes,Low
+REC00291,2023-12-09,Central,Mukono,Woodland,1146.31,87.28,847.0,325,0,No,Low
+REC00292,2022-01-03,Eastern,Mbale,Dry Forest,878.29,27.9,2249.9,825,1,Yes,Low
+REC00293,2024-10-25,Western,Mbarara,Woodland,3092.29,207.35,830.0,372,21,Yes,High
+REC00294,2022-10-09,Central,Mukono,Mangrove,4381.86,198.33,2092.7,238,4,No,Medium
+REC00295,2024-06-29,Northern,Gulu,Woodland,9691.06,195.17,1529.4,539,10,No,Medium
+REC00296,2024-05-02,Western,Kabale,Plantation,2510.83,132.13,1500.8,844,18,Yes,High
+REC00297,2022-06-11,Western,Mbarara,Mangrove,6282.71,277.91,1923.6,660,13,No,Medium
+REC00298,2022-07-01,Eastern,Mbale,Plantation,6093.95,253.33,1951.1,431,14,Yes,High
+REC00299,2022-06-12,Western,Kabale,Plantation,4209.37,233.17,2437.0,329,7,No,Medium
+REC00300,2023-05-01,Western,Kabale,Mangrove,1849.01,12.8,1655.7,610,24,Yes,High
+REC00301,2023-09-04,Western,Mbarara,Mangrove,4119.31,44.56,2326.3,289,12,Yes,High
+REC00302,2024-08-13,Northern,Gulu,Mangrove,6621.91,77.56,853.2,151,11,No,Low
+REC00303,2021-02-26,Central,Mukono,Mangrove,6721.01,496.93,2335.8,585,2,No,High
+REC00304,2024-04-17,Eastern,Mbale,Plantation,7919.89,12.33,2147.0,545,4,Yes,Low
+REC00305,2022-03-16,Western,Kabale,Dry Forest,9125.64,574.39,790.4,425,12,No,High
+REC00306,2024-12-30,Western,Kabale,Mangrove,9495.19,152.17,2331.3,485,15,Yes,High
+REC00307,2023-09-30,Central,Wakiso,Dry Forest,2350.9,35.43,1972.1,114,20,Yes,High
+REC00308,2021-01-14,Western,Kabale,Mangrove,2013.43,119.03,893.6,301,3,Yes,Medium
+REC00309,2021-09-08,Western,Mbarara,Tropical Rainforest,6030.91,458.86,1946.1,515,11,No,High
+REC00310,2023-05-23,Western,Kabale,Tropical Rainforest,2284.47,0.1,798.5,193,19,Yes,High
+REC00311,2024-12-29,Western,Mbarara,Mangrove,3296.73,90.74,1820.1,438,7,No,Low
+REC00312,2022-04-26,Western,Mbarara,Dry Forest,6980.03,14.89,843.1,396,11,Yes,High
+REC00313,2021-07-07,Eastern,Mbale,Tropical Rainforest,9576.77,502.52,1848.3,635,13,No,High
+REC00314,2021-12-16,Western,Mbarara,Tropical Rainforest,3761.36,129.25,1770.9,851,5,Yes,Medium
+REC00315,2022-09-10,Western,Kabale,Tropical Rainforest,9219.09,612.38,1629.7,405,14,No,High
+REC00316,2024-06-26,Eastern,Mbale,Woodland,7610.94,66.08,1522.9,688,9,Yes,Low
+REC00317,2023-08-16,Central,Wakiso,Mangrove,9768.04,720.91,1028.1,619,11,Yes,High
+REC00318,2021-05-20,Central,Wakiso,Tropical Rainforest,6963.61,203.54,1073.2,280,6,Yes,Medium
+REC00319,2024-08-15,Central,Mukono,Woodland,8408.04,258.94,1630.2,734,6,Yes,Medium
+REC00320,2024-12-28,Central,Mukono,Montane Forest,9573.43,318.47,956.9,116,22,Yes,High
+REC00321,2022-01-29,Eastern,Mbale,Mangrove,6509.82,368.87,1114.0,269,1,Yes,High
+REC00322,2022-10-06,Central,Mukono,Woodland,6195.86,116.24,1432.0,565,5,No,Medium
+REC00323,2023-06-20,Northern,Gulu,Plantation,5941.36,411.62,1683.8,597,6,Yes,High
+REC00324,2023-01-13,Western,Mbarara,Tropical Rainforest,2160.46,62.25,809.4,467,6,Yes,Low
+REC00325,2021-02-14,Eastern,Mbale,Woodland,1899.54,103.31,734.2,808,14,Yes,High
+REC00326,2023-09-20,Central,Mukono,Plantation,5367.54,341.29,2271.6,200,14,No,High
+REC00327,2021-01-11,Eastern,Mbale,Tropical Rainforest,6140.26,211.19,1026.5,245,22,Yes,High
+REC00328,2021-11-06,Eastern,Mbale,Dry Forest,5632.05,183.15,2167.4,617,9,No,Medium
+REC00329,2022-01-09,Eastern,Mbale,Montane Forest,7118.02,37.32,2056.3,153,4,Yes,Low
+REC00330,2022-11-04,Central,Mukono,Mangrove,8625.82,431.08,1568.0,433,16,Yes,High
+REC00331,2024-05-21,Central,Mukono,Mangrove,8584.52,420.49,1200.7,346,16,No,High
+REC00332,2024-02-27,Northern,Gulu,Mangrove,7259.34,564.05,1780.3,433,25,Yes,High
+REC00333,2023-12-11,Western,Mbarara,Montane Forest,6506.29,284.87,2461.6,419,13,Yes,High
+REC00334,2021-08-08,Eastern,Mbale,Tropical Rainforest,7936.66,137.3,2378.6,434,4,No,Medium
+REC00335,2024-02-04,Western,Mbarara,Plantation,258.37,20.55,1025.7,284,24,Yes,High
+REC00336,2021-11-03,Central,Wakiso,Woodland,9877.9,23.19,2191.4,288,3,No,Low
+REC00337,2021-05-20,Western,Kabale,Dry Forest,7942.29,591.07,1850.7,577,6,No,High
+REC00338,2021-09-23,Western,Mbarara,Dry Forest,5530.39,276.54,2359.8,702,9,No,Medium
+REC00339,2024-12-13,Central,Wakiso,Tropical Rainforest,7754.84,319.2,2147.1,176,18,Yes,High
+REC00340,2023-09-24,Western,Mbarara,Plantation,4255.26,41.39,1164.5,192,8,Yes,Low
+REC00341,2021-04-30,Central,Wakiso,Mangrove,5759.12,42.69,1918.5,515,20,No,Low
+REC00342,2024-11-03,Western,Mbarara,Plantation,9681.12,298.99,1009.8,488,24,Yes,High
+REC00343,2022-02-20,Western,Kabale,Tropical Rainforest,7016.08,375.53,1841.5,120,13,No,High
+REC00344,2022-02-06,Northern,Gulu,Dry Forest,5244.67,42.02,1992.6,537,0,No,Low
+REC00345,2023-10-21,Western,Kabale,Dry Forest,220.19,11.07,1127.4,783,14,Yes,High
+REC00346,2022-03-12,Eastern,Mbale,Woodland,7933.31,477.94,2170.6,783,9,Yes,High
+REC00347,2022-09-30,Eastern,Mbale,Woodland,3028.34,44.91,931.3,426,2,No,Low
+REC00348,2021-04-23,Western,Kabale,Woodland,7446.55,515.43,2151.6,589,17,Yes,High
+REC00349,2021-02-17,Central,Wakiso,Dry Forest,5328.32,223.1,2211.8,399,8,Yes,Medium
+REC00350,2022-04-01,Central,Mukono,Plantation,5673.19,76.61,1488.0,515,13,Yes,High
+REC00351,2022-08-24,Eastern,Mbale,Mangrove,3329.65,248.64,1657.1,675,25,Yes,High
+REC00352,2024-12-14,Central,Mukono,Mangrove,6189.71,454.1,2051.0,897,20,Yes,High
+REC00353,2021-05-24,Eastern,Mbale,Woodland,3448.55,182.26,913.1,81,8,Yes,Medium
+REC00354,2022-03-04,Western,Mbarara,Plantation,9167.64,156.09,2113.1,135,19,No,Medium
+REC00355,2024-04-19,Central,Mukono,Plantation,2776.69,100.51,1610.1,190,5,Yes,Medium
+REC00356,2023-12-12,Northern,Gulu,Tropical Rainforest,1069.38,46.81,2464.4,612,25,No,Low
+REC00357,2023-04-15,Eastern,Mbale,Plantation,9248.54,330.41,1333.2,167,5,Yes,High
+REC00358,2022-08-09,Western,Kabale,Woodland,7936.77,407.47,1453.4,853,22,Yes,High
+REC00359,2023-05-27,Northern,Gulu,Mangrove,187.78,8.89,1321.9,766,11,No,Low
+REC00360,2023-10-19,Northern,Gulu,Mangrove,4788.52,112.22,988.5,828,16,No,Medium
+REC00361,2022-06-21,Northern,Gulu,Dry Forest,4188.23,200.34,1959.5,794,20,No,Medium
+REC00362,2022-03-06,Northern,Gulu,Plantation,5635.42,107.37,988.9,712,2,Yes,Medium
+REC00363,2023-08-01,Western,Kabale,Mangrove,4218.06,37.41,1513.5,666,25,No,Low
+REC00364,2024-08-17,Central,Wakiso,Tropical Rainforest,7992.69,377.83,1249.5,105,24,Yes,High
+REC00365,2022-02-18,Eastern,Mbale,Mangrove,3228.61,249.18,1066.8,228,7,No,Medium
+REC00366,2021-01-31,Eastern,Mbale,Montane Forest,9894.84,54.95,2113.6,485,5,No,Low
+REC00367,2021-05-19,Central,Mukono,Woodland,4771.01,133.02,833.6,766,1,No,Medium
+REC00368,2023-02-12,Central,Wakiso,Dry Forest,7714.06,112.54,2381.0,768,15,Yes,High
+REC00369,2021-06-10,Northern,Gulu,Dry Forest,3225.9,139.57,1396.7,183,6,Yes,Medium
+REC00370,2022-03-24,Western,Kabale,Dry Forest,663.99,44.72,2108.7,808,17,No,Low
+REC00371,2023-02-01,Central,Mukono,Dry Forest,9737.59,505.46,2084.6,511,13,No,High
+REC00372,2022-09-03,Central,Mukono,Dry Forest,7132.41,49.76,813.2,106,25,No,Low
+REC00373,2022-05-10,Eastern,Mbale,Montane Forest,2520.0,130.46,886.2,178,12,Yes,High
+REC00374,2022-06-10,Eastern,Mbale,Plantation,6311.81,232.3,1035.0,501,13,Yes,High
+REC00375,2022-08-03,Western,Kabale,Mangrove,3366.29,8.33,1192.8,333,18,Yes,High
+REC00376,2022-12-27,Central,Mukono,Woodland,4691.67,34.19,1924.8,572,5,Yes,Low
+REC00377,2024-04-07,Eastern,Mbale,Tropical Rainforest,2182.8,70.21,1527.7,446,8,Yes,Low
+REC00378,2022-09-17,Northern,Gulu,Mangrove,621.24,40.15,1855.0,812,4,Yes,Low
+REC00379,2023-01-27,Western,Kabale,Woodland,3244.52,130.6,1989.3,595,18,Yes,High
+REC00380,2024-07-06,Central,Mukono,Mangrove,8587.57,675.82,2455.1,96,11,No,High
+REC00381,2024-08-01,Western,Kabale,Dry Forest,3111.6,162.29,2284.0,42,12,No,Medium
+REC00382,2024-01-01,Western,Kabale,Woodland,8025.32,405.95,1856.8,90,1,No,High
+REC00383,2023-07-02,Central,Mukono,Plantation,1533.0,41.02,2116.8,313,10,Yes,Low
+REC00384,2024-10-26,Eastern,Mbale,Woodland,3651.45,115.11,1464.0,711,15,No,Medium
+REC00385,2023-04-19,Central,Mukono,Plantation,7751.05,122.21,1767.8,772,13,Yes,High
+REC00386,2021-03-27,Central,Mukono,Dry Forest,4653.47,348.54,1095.4,504,25,No,High
+REC00387,2021-06-22,Central,Mukono,Tropical Rainforest,1583.84,116.76,2442.4,233,25,No,Medium
+REC00388,2022-09-13,Central,Wakiso,Tropical Rainforest,7802.33,276.98,1739.4,163,16,No,Medium
+REC00389,2021-11-20,Western,Mbarara,Dry Forest,722.94,28.65,2212.6,484,10,Yes,Low
+REC00390,2022-07-20,Western,Mbarara,Tropical Rainforest,3403.53,174.01,2214.9,742,2,No,Medium
+REC00391,2022-01-30,Western,Kabale,Mangrove,851.01,9.95,2114.2,529,20,Yes,High
+REC00392,2023-09-15,Central,Mukono,Plantation,1044.97,39.21,813.8,717,14,Yes,High
+REC00393,2021-09-22,Western,Kabale,Mangrove,6539.61,273.17,2419.8,554,21,Yes,High
+REC00394,2024-07-15,Eastern,Mbale,Montane Forest,8983.42,240.61,1606.3,282,5,Yes,Medium
+REC00395,2022-10-05,Western,Mbarara,Woodland,6293.94,456.54,1598.7,129,4,Yes,High
+REC00396,2022-09-21,Northern,Gulu,Mangrove,5678.9,210.63,1946.6,483,8,Yes,Medium
+REC00397,2023-04-14,Eastern,Mbale,Mangrove,5815.66,72.41,2049.6,398,12,Yes,High
+REC00398,2024-08-30,Northern,Gulu,Dry Forest,9027.11,127.91,1110.5,237,21,Yes,High
+REC00399,2024-01-03,Western,Kabale,Tropical Rainforest,7807.42,511.18,2391.3,41,22,No,High
+REC00400,2023-09-30,Central,Mukono,Plantation,9055.54,543.7,1826.8,610,5,No,High
+REC00401,2023-12-23,Central,Wakiso,Mangrove,5396.15,14.28,1449.1,670,4,No,Low
+REC00402,2022-08-27,Eastern,Mbale,Mangrove,4343.8,308.82,2446.4,57,21,No,High
+REC00403,2021-09-15,Central,Mukono,Plantation,7150.2,201.76,2054.0,232,2,No,Medium
+REC00404,2024-08-30,Eastern,Mbale,Plantation,7381.33,165.57,1736.0,64,3,Yes,Medium
+REC00405,2022-04-23,Eastern,Mbale,Tropical Rainforest,4530.04,30.47,2006.0,735,9,No,Low
+REC00406,2021-05-24,Western,Kabale,Montane Forest,4461.07,270.03,1833.1,657,16,Yes,High
+REC00407,2024-12-27,Central,Wakiso,Woodland,2859.44,55.55,1450.1,213,22,Yes,High
+REC00408,2022-12-04,Western,Kabale,Dry Forest,1054.67,32.09,1036.5,166,3,No,Low
+REC00409,2022-12-30,Eastern,Mbale,Montane Forest,2010.67,114.66,1587.7,403,1,Yes,Medium
+REC00410,2022-05-24,Western,Kabale,Montane Forest,5500.31,43.17,2070.7,820,11,Yes,High
+REC00411,2021-04-04,Eastern,Mbale,Mangrove,3356.46,105.98,2238.8,285,21,Yes,High
+REC00412,2024-07-09,Central,Mukono,Montane Forest,1660.69,107.51,2226.6,78,4,Yes,Medium
+REC00413,2022-02-16,Northern,Gulu,Tropical Rainforest,3055.15,144.41,1446.5,54,10,No,Medium
+REC00414,2022-02-11,Western,Mbarara,Woodland,4737.6,219.63,1705.5,361,5,Yes,Medium
+REC00415,2024-10-23,Western,Kabale,Plantation,6370.74,374.56,2136.0,210,17,No,High
+REC00416,2023-04-07,Northern,Gulu,Mangrove,5769.48,15.85,823.6,672,25,Yes,High
+REC00417,2021-09-23,Western,Mbarara,Dry Forest,8526.47,255.84,1265.2,414,1,Yes,Medium
+REC00418,2022-03-17,Central,Wakiso,Montane Forest,9674.87,343.9,2488.8,541,6,Yes,High
+REC00419,2022-01-05,Central,Wakiso,Tropical Rainforest,3937.01,213.18,1631.0,477,9,Yes,Medium
+REC00420,2022-09-21,Central,Mukono,Tropical Rainforest,3831.31,41.37,891.4,823,21,Yes,High
+REC00421,2021-09-21,Central,Wakiso,Dry Forest,9249.23,707.81,2130.4,631,6,No,High
+REC00422,2023-09-21,Central,Wakiso,Woodland,7098.41,441.04,2048.2,811,3,No,High
+REC00423,2024-07-28,Northern,Gulu,Woodland,2890.53,67.43,2440.3,699,2,Yes,Low
+REC00424,2023-05-10,Western,Kabale,Plantation,3314.32,173.97,1368.2,36,20,No,Medium
+REC00425,2024-03-31,Western,Kabale,Montane Forest,8676.52,0.43,1099.8,323,14,No,Low
+REC00426,2023-06-08,Northern,Gulu,Mangrove,8685.67,663.54,1152.3,315,22,Yes,High
+REC00427,2024-08-07,Western,Kabale,Montane Forest,3011.43,100.44,1402.4,106,8,No,Medium
+REC00428,2023-02-23,Central,Mukono,Plantation,196.25,12.4,1446.3,90,24,No,Low
+REC00429,2024-07-17,Western,Kabale,Woodland,1872.74,23.36,1901.7,427,14,Yes,High
+REC00430,2024-08-17,Central,Mukono,Plantation,352.55,21.16,1333.1,373,22,No,Low
+REC00431,2021-05-27,Eastern,Mbale,Dry Forest,1596.54,109.4,1854.0,178,7,No,Medium
+REC00432,2023-11-06,Western,Mbarara,Plantation,6048.76,108.6,1347.5,77,13,No,Medium
+REC00433,2021-10-13,Eastern,Mbale,Montane Forest,680.84,8.56,1947.8,789,2,Yes,Low
+REC00434,2022-02-01,Central,Mukono,Tropical Rainforest,2853.45,168.28,2362.8,211,3,Yes,Medium
+REC00435,2021-12-19,Eastern,Mbale,Mangrove,7657.4,16.94,2169.3,524,1,Yes,Low
+REC00436,2023-08-26,Central,Mukono,Woodland,5791.93,416.58,765.8,605,5,Yes,High
+REC00437,2024-02-05,Eastern,Mbale,Dry Forest,8982.81,332.74,1071.9,863,4,Yes,High
+REC00438,2022-06-19,Central,Wakiso,Plantation,6346.02,96.29,1445.9,667,22,No,Low
+REC00439,2022-04-21,Central,Wakiso,Plantation,7775.38,101.5,711.0,563,10,Yes,Medium
+REC00440,2024-07-14,Northern,Gulu,Montane Forest,8358.1,533.83,1607.1,597,6,No,High
+REC00441,2022-04-07,Western,Kabale,Tropical Rainforest,8000.06,336.24,1228.4,858,16,No,High
+REC00442,2024-06-04,Eastern,Mbale,Woodland,3408.51,268.2,1217.6,777,4,No,Medium
+REC00443,2022-07-15,Central,Mukono,Montane Forest,2178.5,77.41,1301.1,865,8,No,Low
+REC00444,2024-03-24,Central,Wakiso,Plantation,7717.97,569.56,857.3,571,11,No,High
+REC00445,2023-03-02,Western,Kabale,Tropical Rainforest,5344.06,145.4,1603.9,669,5,No,Medium
+REC00446,2023-01-07,Eastern,Mbale,Montane Forest,717.64,31.25,1604.5,144,11,No,Low
+REC00447,2021-07-30,Western,Mbarara,Mangrove,8517.15,412.06,1338.7,583,10,No,High
+REC00448,2021-12-20,Eastern,Mbale,Montane Forest,687.36,9.6,2131.6,457,11,Yes,High
+REC00449,2023-12-13,Western,Mbarara,Tropical Rainforest,3348.8,261.97,1553.7,879,8,Yes,Medium
+REC00450,2022-07-30,Northern,Gulu,Mangrove,7965.55,179.9,920.9,725,23,No,Medium
+REC00451,2024-05-29,Central,Mukono,Plantation,292.46,15.24,2031.1,622,7,Yes,Low
+REC00452,2024-03-29,Western,Kabale,Plantation,574.78,38.51,2086.2,350,8,No,Low
+REC00453,2022-03-16,Central,Wakiso,Mangrove,7711.45,283.5,1912.3,165,0,Yes,Medium
+REC00454,2022-02-26,Western,Mbarara,Montane Forest,6652.18,78.69,2381.0,804,24,Yes,High
+REC00455,2023-08-27,Western,Kabale,Plantation,3255.92,145.48,852.8,577,14,No,Medium
+REC00456,2024-01-08,Northern,Gulu,Mangrove,6913.01,220.42,1867.2,853,9,Yes,Medium
+REC00457,2024-10-10,Central,Wakiso,Montane Forest,6990.56,23.37,1581.8,563,15,Yes,High
+REC00458,2021-09-05,Western,Kabale,Tropical Rainforest,8476.59,592.72,1202.5,309,7,Yes,High
+REC00459,2022-07-21,Western,Kabale,Montane Forest,3383.65,68.97,2128.3,641,20,Yes,High
+REC00460,2021-07-20,Northern,Gulu,Montane Forest,6237.34,206.41,2094.7,691,17,Yes,High
+REC00461,2023-12-17,Eastern,Mbale,Montane Forest,6190.5,297.75,2229.0,873,13,Yes,High
+REC00462,2023-07-02,Central,Mukono,Woodland,4748.88,125.2,1553.4,771,17,Yes,High
+REC00463,2021-05-31,Central,Wakiso,Plantation,4165.22,95.2,1926.8,93,1,No,Low
+REC00464,2021-10-12,Eastern,Mbale,Tropical Rainforest,9771.24,662.46,1921.1,777,21,No,High
+REC00465,2024-11-24,Western,Mbarara,Tropical Rainforest,1803.98,71.63,1677.0,849,21,Yes,High
+REC00466,2024-11-23,Northern,Gulu,Tropical Rainforest,563.89,24.55,1060.7,444,4,No,Low
+REC00467,2021-01-27,Northern,Gulu,Dry Forest,9895.35,719.8,1523.7,337,16,Yes,High
+REC00468,2023-09-15,Central,Mukono,Tropical Rainforest,403.43,5.81,1754.9,413,4,Yes,Low
+REC00469,2022-09-26,Central,Wakiso,Tropical Rainforest,3951.15,81.58,732.5,832,17,No,Low
+REC00470,2023-08-11,Western,Kabale,Montane Forest,8587.15,258.68,1752.3,378,14,Yes,High
+REC00471,2021-10-11,Western,Mbarara,Mangrove,2393.67,117.41,1234.9,393,12,Yes,High
+REC00472,2022-05-02,Western,Mbarara,Plantation,1032.72,25.58,1036.7,369,4,No,Low
+REC00473,2022-09-19,Northern,Gulu,Plantation,244.72,13.44,1801.9,307,23,Yes,High
+REC00474,2024-01-29,Western,Mbarara,Tropical Rainforest,485.06,3.74,2434.0,722,5,Yes,Low
+REC00475,2024-11-10,Northern,Gulu,Dry Forest,7026.01,372.33,2434.8,216,1,No,High
+REC00476,2024-03-03,Eastern,Mbale,Tropical Rainforest,8348.5,329.67,1891.2,798,15,No,High
+REC00477,2023-09-29,Western,Kabale,Woodland,4466.42,169.18,2129.9,241,17,No,Medium
+REC00478,2021-05-19,Western,Kabale,Dry Forest,7403.82,432.36,1253.6,341,4,No,High
+REC00479,2021-04-29,Western,Kabale,Plantation,1826.27,142.35,779.4,349,22,Yes,High
+REC00480,2021-06-20,Central,Mukono,Plantation,1533.38,33.1,2056.9,174,7,Yes,Low
+REC00481,2023-11-09,Western,Mbarara,Dry Forest,3464.19,62.52,860.6,155,7,No,Low
+REC00482,2023-04-16,Eastern,Mbale,Montane Forest,8687.68,444.74,1310.7,455,15,Yes,High
+REC00483,2024-06-09,Northern,Gulu,Plantation,7743.03,249.45,1007.2,668,23,Yes,High
+REC00484,2021-12-26,Central,Mukono,Tropical Rainforest,9655.01,623.04,1368.9,121,13,Yes,High
+REC00485,2021-02-28,Central,Mukono,Tropical Rainforest,9043.92,414.11,2262.1,156,22,No,High
+REC00486,2022-03-18,Central,Wakiso,Plantation,9748.93,52.0,1681.1,419,19,No,Low
+REC00487,2022-06-25,Northern,Gulu,Dry Forest,6516.19,350.28,772.6,91,22,No,High
+REC00488,2022-04-16,Central,Mukono,Plantation,5614.31,189.0,1922.9,35,14,Yes,High
+REC00489,2024-04-07,Eastern,Mbale,Tropical Rainforest,8483.09,609.29,1602.3,392,18,No,High
+REC00490,2024-02-26,Eastern,Mbale,Mangrove,7830.98,595.83,2167.1,844,9,Yes,High
+REC00491,2022-06-29,Central,Mukono,Mangrove,4856.96,77.9,2077.2,862,18,Yes,High
+REC00492,2024-09-15,Western,Kabale,Montane Forest,7513.11,10.35,1600.1,435,16,No,Low
+REC00493,2022-10-16,Western,Mbarara,Mangrove,402.49,8.83,1716.3,437,9,Yes,Low
+REC00494,2023-09-07,Western,Mbarara,Tropical Rainforest,480.69,33.7,1412.6,356,18,No,Low
+REC00495,2021-08-24,Northern,Gulu,Woodland,7796.74,102.94,2275.8,455,0,No,Medium
+REC00496,2023-06-17,Western,Mbarara,Tropical Rainforest,1473.89,76.39,1096.1,518,12,Yes,High
+REC00497,2021-07-29,Eastern,Mbale,Plantation,9704.17,154.91,711.7,664,16,No,Medium
+REC00498,2023-07-11,Central,Mukono,Dry Forest,2228.78,88.33,1757.3,734,8,No,Low
+REC00499,2023-08-07,Western,Mbarara,Plantation,9602.15,30.66,1013.3,736,20,No,Low
+REC00500,2022-02-02,Central,Wakiso,Plantation,4729.13,308.99,1967.8,702,17,No,High
+REC00501,2024-02-28,Western,Kabale,Woodland,7775.17,608.59,732.8,853,11,No,High
+REC00502,2024-06-24,Central,Mukono,Montane Forest,3996.42,308.45,1022.3,112,6,No,High
+REC00503,2024-02-07,Western,Mbarara,Tropical Rainforest,7184.15,130.47,885.0,659,16,Yes,High
+REC00504,2022-06-07,Eastern,Mbale,Montane Forest,7059.25,113.66,2036.6,688,0,Yes,Medium
+REC00505,2022-01-01,Western,Mbarara,Woodland,2836.72,151.43,1364.5,575,10,Yes,Medium
+REC00506,2022-10-25,Western,Mbarara,Plantation,528.34,38.7,1152.3,477,16,Yes,High
+REC00507,2022-07-12,Western,Kabale,Tropical Rainforest,7987.68,59.45,1271.7,81,0,Yes,Low
+REC00508,2024-05-03,Northern,Gulu,Montane Forest,3279.68,101.88,2439.9,841,17,Yes,High
+REC00509,2023-08-03,Northern,Gulu,Dry Forest,6914.87,297.08,2126.4,876,15,No,Medium
+REC00510,2023-09-29,Central,Mukono,Woodland,9634.76,286.14,1893.9,383,6,Yes,Medium
+REC00511,2023-03-30,Northern,Gulu,Plantation,6518.65,24.02,1044.6,564,12,Yes,High
+REC00512,2024-04-07,Western,Mbarara,Tropical Rainforest,1420.85,17.11,1486.8,394,2,No,Low
+REC00513,2022-09-17,Central,Wakiso,Tropical Rainforest,5986.36,404.44,1267.4,655,25,Yes,High
+REC00514,2021-10-24,Western,Kabale,Woodland,4636.76,60.22,1112.2,359,11,Yes,High
+REC00515,2021-04-17,Western,Kabale,Dry Forest,9023.72,172.7,1735.8,793,25,No,Medium
+REC00516,2023-12-23,Western,Kabale,Tropical Rainforest,1704.69,110.98,1747.1,360,7,Yes,Medium
+REC00517,2024-05-20,Eastern,Mbale,Mangrove,5716.21,245.16,1938.9,743,18,No,Medium
+REC00518,2022-05-15,Western,Mbarara,Woodland,9146.86,442.35,2127.3,774,4,Yes,High
+REC00519,2021-02-20,Eastern,Mbale,Montane Forest,7194.73,65.38,1482.1,163,0,Yes,Low
+REC00520,2021-01-06,Central,Mukono,Woodland,618.91,20.39,1873.2,394,13,No,Low
+REC00521,2024-06-01,Western,Kabale,Tropical Rainforest,338.92,14.96,2352.4,406,24,Yes,High
+REC00522,2021-05-17,Eastern,Mbale,Plantation,6247.69,111.65,2466.6,507,0,No,Medium
+REC00523,2024-08-02,Western,Mbarara,Woodland,6359.1,486.52,1344.6,189,1,No,High
+REC00524,2022-12-31,Eastern,Mbale,Plantation,5735.1,152.2,750.1,139,19,No,Medium
+REC00525,2021-05-15,Western,Mbarara,Dry Forest,9080.59,538.95,1031.6,547,18,Yes,High
+REC00526,2024-05-11,Western,Mbarara,Mangrove,3384.81,164.54,1071.7,503,13,No,Medium
+REC00527,2022-03-01,Western,Kabale,Dry Forest,9824.16,181.33,2415.0,337,7,No,Medium
+REC00528,2023-08-01,Central,Wakiso,Plantation,944.42,15.62,1113.0,239,4,No,Low
+REC00529,2022-10-21,Western,Kabale,Dry Forest,8651.88,301.51,1199.6,467,8,Yes,High
+REC00530,2023-11-19,Eastern,Mbale,Montane Forest,6784.39,74.78,2489.3,296,3,No,Low
+REC00531,2023-07-22,Western,Mbarara,Mangrove,9367.24,635.51,2296.0,32,20,No,High
+REC00532,2023-06-20,Western,Kabale,Montane Forest,2547.57,56.0,1383.5,551,25,No,Low
+REC00533,2021-01-07,Northern,Gulu,Mangrove,7331.89,5.22,2369.3,46,8,Yes,Low
+REC00534,2022-05-18,Central,Wakiso,Woodland,2293.46,128.33,2246.9,235,0,Yes,Medium
+REC00535,2023-06-18,Northern,Gulu,Tropical Rainforest,5021.42,3.14,1501.0,868,22,No,Low
+REC00536,2023-08-14,Western,Mbarara,Dry Forest,4148.96,267.32,2174.1,160,23,No,Medium
+REC00537,2023-09-30,Central,Wakiso,Montane Forest,9223.35,272.64,1734.9,628,7,No,Medium
+REC00538,2024-03-26,Northern,Gulu,Montane Forest,6535.01,377.03,2360.6,589,25,Yes,High
+REC00539,2023-03-10,Western,Kabale,Montane Forest,4413.41,331.28,1790.0,196,24,No,High
+REC00540,2024-12-18,Central,Wakiso,Tropical Rainforest,3999.03,60.36,1169.3,103,4,Yes,Low
+REC00541,2024-12-20,Western,Mbarara,Woodland,3974.32,76.33,1253.6,608,21,No,Low
+REC00542,2022-03-08,Central,Wakiso,Dry Forest,7275.03,403.62,1054.1,501,13,Yes,High
+REC00543,2022-11-20,Central,Mukono,Woodland,457.61,31.33,2497.9,38,4,No,Low
+REC00544,2023-12-03,Central,Mukono,Plantation,3526.99,57.2,1755.0,209,15,No,Low
+REC00545,2023-07-21,Eastern,Mbale,Tropical Rainforest,6277.2,477.16,1837.5,660,22,No,High
+REC00546,2021-03-23,Eastern,Mbale,Plantation,2502.85,190.89,838.7,75,20,Yes,High
+REC00547,2021-03-27,Central,Wakiso,Mangrove,4065.81,314.24,2092.7,56,2,No,High
+REC00548,2021-11-03,Western,Mbarara,Montane Forest,1373.54,11.08,1107.7,633,13,Yes,High
+REC00549,2021-02-23,Central,Wakiso,Woodland,2249.22,152.26,1555.9,759,17,Yes,High
+REC00550,2023-07-20,Central,Wakiso,Dry Forest,3205.44,246.06,2122.8,92,7,Yes,Medium
+REC00551,2024-05-23,Central,Wakiso,Dry Forest,229.59,6.11,1633.9,849,3,No,Low
+REC00552,2021-10-01,Northern,Gulu,Mangrove,6048.12,466.87,1859.9,623,3,Yes,High
+REC00553,2024-07-14,Western,Mbarara,Dry Forest,169.72,9.18,1670.9,704,25,Yes,High
+REC00554,2021-12-10,Central,Wakiso,Tropical Rainforest,2653.64,168.12,1393.9,389,25,No,Medium
+REC00555,2023-11-10,Western,Kabale,Mangrove,1089.94,14.77,1520.7,605,23,Yes,High
+REC00556,2022-03-28,Western,Kabale,Plantation,3628.06,196.76,1780.5,580,14,Yes,High
+REC00557,2021-10-22,Central,Wakiso,Plantation,3144.19,163.51,2350.0,752,2,No,Medium
+REC00558,2024-04-10,Northern,Gulu,Woodland,7271.66,442.24,2069.1,136,24,No,High
+REC00559,2021-10-25,Eastern,Mbale,Tropical Rainforest,6775.49,312.23,1591.6,837,10,Yes,High
+REC00560,2022-07-05,Eastern,Mbale,Dry Forest,7265.16,100.22,796.9,756,25,Yes,High
+REC00561,2023-11-08,Eastern,Mbale,Woodland,8019.77,406.76,2224.9,362,16,No,High
+REC00562,2024-11-16,Western,Kabale,Mangrove,6468.81,69.2,1855.7,622,3,No,Low
+REC00563,2023-05-04,Northern,Gulu,Woodland,4927.3,103.62,928.6,882,16,No,Medium
+REC00564,2022-02-27,Central,Mukono,Plantation,9546.1,77.71,1748.1,760,0,Yes,Low
+REC00565,2022-01-15,Northern,Gulu,Montane Forest,8769.09,502.42,1488.4,42,17,No,High
+REC00566,2023-04-09,Eastern,Mbale,Woodland,9301.85,464.35,1392.7,471,21,No,High
+REC00567,2022-09-09,Western,Mbarara,Montane Forest,6005.0,209.45,1449.9,30,14,No,Medium
+REC00568,2021-11-15,Eastern,Mbale,Woodland,9217.01,109.38,1297.6,447,3,No,Medium
+REC00569,2022-01-23,Eastern,Mbale,Woodland,9084.39,179.97,1661.5,324,12,Yes,High
+REC00570,2023-08-07,Western,Mbarara,Woodland,6958.98,147.46,2457.2,815,8,No,Medium
+REC00571,2021-11-03,Western,Mbarara,Montane Forest,7569.79,427.34,1837.6,777,6,No,High
+REC00572,2022-09-01,Western,Mbarara,Plantation,9391.63,553.21,1870.9,404,21,Yes,High
+REC00573,2022-08-31,Central,Mukono,Tropical Rainforest,2192.76,104.41,718.3,596,9,No,Medium
+REC00574,2021-03-07,Western,Kabale,Plantation,1299.25,23.9,813.9,95,12,No,Low
+REC00575,2024-08-15,Western,Mbarara,Plantation,6071.76,49.22,1164.5,181,17,Yes,High
+REC00576,2021-01-24,Western,Kabale,Mangrove,5173.03,335.34,1627.4,800,10,No,High
+REC00577,2021-08-11,Western,Mbarara,Dry Forest,6091.58,390.54,1106.3,452,20,No,High
+REC00578,2023-10-16,Central,Mukono,Mangrove,3928.29,184.92,1399.7,772,11,No,Medium
+REC00579,2023-06-27,Eastern,Mbale,Dry Forest,1503.12,113.03,1882.9,331,12,No,Medium
+REC00580,2021-05-01,Central,Wakiso,Tropical Rainforest,9036.4,420.76,1189.5,247,8,Yes,High
+REC00581,2021-08-17,Central,Mukono,Tropical Rainforest,9898.08,574.35,2438.8,331,1,No,High
+REC00582,2024-10-24,Western,Mbarara,Mangrove,659.33,43.48,1993.8,677,19,Yes,High
+REC00583,2021-02-25,Central,Wakiso,Dry Forest,5312.88,370.15,2413.7,605,16,Yes,High
+REC00584,2024-04-09,Central,Mukono,Montane Forest,5335.89,114.11,854.9,437,8,Yes,Medium
+REC00585,2023-10-30,Eastern,Mbale,Woodland,1945.73,124.6,949.1,244,5,No,Medium
+REC00586,2024-08-29,Eastern,Mbale,Dry Forest,8098.34,470.69,2320.3,473,4,Yes,High
+REC00587,2021-08-26,Eastern,Mbale,Tropical Rainforest,6993.34,415.31,2204.9,647,18,Yes,High
+REC00588,2023-08-07,Western,Kabale,Woodland,1538.99,76.25,1354.1,835,11,No,Low
+REC00589,2021-08-14,Eastern,Mbale,Woodland,6676.17,180.98,2455.6,178,24,No,Medium
+REC00590,2024-03-10,Central,Wakiso,Dry Forest,1299.51,5.75,1984.6,531,2,Yes,Low
+REC00591,2023-07-27,Eastern,Mbale,Tropical Rainforest,3377.31,50.35,1547.1,286,11,Yes,High
+REC00592,2023-05-25,Western,Mbarara,Plantation,1686.6,105.68,1917.4,401,5,No,Medium
+REC00593,2022-08-12,Western,Mbarara,Woodland,1361.67,8.56,1286.2,696,4,No,Low
+REC00594,2022-11-22,Western,Mbarara,Tropical Rainforest,1741.92,138.87,1219.0,403,8,Yes,Medium
+REC00595,2021-05-04,Eastern,Mbale,Dry Forest,4231.16,108.86,788.5,504,0,Yes,Medium
+REC00596,2023-06-17,Western,Kabale,Mangrove,1395.35,12.42,2070.8,693,23,No,Low
+REC00597,2024-08-04,Central,Mukono,Mangrove,919.55,43.3,1215.8,135,0,Yes,Low
+REC00598,2022-07-13,Northern,Gulu,Dry Forest,7715.37,562.29,2031.8,645,13,Yes,High
+REC00599,2023-05-29,Northern,Gulu,Montane Forest,7087.92,52.18,1319.1,606,24,No,Low
+REC00600,2023-03-25,Eastern,Mbale,Mangrove,4004.07,62.81,1871.1,328,19,No,Low
+REC00601,2021-01-04,Northern,Gulu,Plantation,5528.91,19.4,2446.6,213,1,Yes,Low
+REC00602,2023-03-16,Central,Mukono,Montane Forest,3183.0,180.61,1680.3,846,6,Yes,Medium
+REC00603,2022-05-29,Central,Wakiso,Tropical Rainforest,5200.97,138.31,2455.8,634,0,Yes,Medium
+REC00604,2024-01-13,Western,Mbarara,Plantation,542.91,26.18,2076.4,115,6,No,Low
+REC00605,2023-05-04,Western,Kabale,Mangrove,2476.79,9.57,1526.6,431,17,No,Low
+REC00606,2024-05-13,Western,Kabale,Montane Forest,9929.61,716.27,767.0,235,18,Yes,High
+REC00607,2021-02-04,Northern,Gulu,Tropical Rainforest,9405.91,592.08,2086.3,860,3,Yes,High
+REC00608,2023-01-07,Northern,Gulu,Plantation,2310.51,70.31,1391.1,297,15,Yes,High
+REC00609,2022-08-20,Western,Mbarara,Tropical Rainforest,9398.26,189.96,2317.6,561,0,No,Medium
+REC00610,2022-04-25,Central,Mukono,Woodland,4183.26,80.7,2016.2,828,12,Yes,High
+REC00611,2021-04-14,Western,Kabale,Mangrove,7154.83,395.41,1071.2,758,12,No,High
+REC00612,2022-04-26,Northern,Gulu,Woodland,9429.47,731.1,2306.4,795,24,Yes,High
+REC00613,2021-03-07,Eastern,Mbale,Woodland,9565.53,263.14,961.1,849,3,No,Medium
+REC00614,2021-10-10,Northern,Gulu,Montane Forest,1441.97,107.23,2430.2,274,17,No,Medium
+REC00615,2024-12-12,Northern,Gulu,Plantation,2802.85,84.8,780.8,547,25,Yes,High
+REC00616,2022-06-21,Central,Wakiso,Plantation,7180.5,93.87,1086.5,538,21,No,Low
+REC00617,2024-12-04,Western,Mbarara,Woodland,2449.53,91.65,2410.1,727,17,No,Low
+REC00618,2023-09-19,Western,Mbarara,Dry Forest,4372.28,43.11,773.3,864,0,Yes,Low
+REC00619,2021-06-21,Eastern,Mbale,Tropical Rainforest,6774.73,186.15,1856.4,863,2,No,Medium
+REC00620,2023-08-27,Western,Mbarara,Tropical Rainforest,4264.1,331.76,1138.8,782,1,No,High
+REC00621,2021-09-28,Central,Mukono,Plantation,4460.58,192.99,732.4,742,19,Yes,High
+REC00622,2022-06-13,Central,Mukono,Montane Forest,7611.27,144.62,1617.9,455,9,No,Medium
+REC00623,2022-10-20,Central,Wakiso,Mangrove,3940.85,83.47,2118.1,51,3,No,Low
+REC00624,2024-02-24,Northern,Gulu,Woodland,463.39,2.99,1512.6,735,2,Yes,Low
+REC00625,2024-09-28,Northern,Gulu,Mangrove,8726.13,327.79,785.5,814,5,Yes,High
+REC00626,2021-05-18,Central,Mukono,Mangrove,4173.27,133.43,2449.1,202,5,Yes,Medium
+REC00627,2022-08-23,Central,Wakiso,Plantation,767.95,24.29,2365.2,35,24,Yes,High
+REC00628,2021-03-29,Central,Wakiso,Dry Forest,8741.52,3.5,1836.2,604,3,Yes,Low
+REC00629,2022-12-04,Western,Mbarara,Dry Forest,9677.4,636.79,1448.5,867,9,No,High
+REC00630,2023-09-29,Central,Wakiso,Montane Forest,5721.91,131.42,1630.9,712,22,No,Medium
+REC00631,2024-03-29,Northern,Gulu,Dry Forest,1747.78,100.82,1284.0,754,20,No,Medium
+REC00632,2024-08-01,Central,Wakiso,Mangrove,410.94,13.5,2015.6,890,24,Yes,High
+REC00633,2024-08-13,Central,Wakiso,Montane Forest,2630.33,145.38,743.7,44,19,No,Medium
+REC00634,2023-04-16,Western,Mbarara,Tropical Rainforest,9501.38,198.4,1416.4,280,12,Yes,High
+REC00635,2024-03-22,Central,Wakiso,Mangrove,2614.56,28.37,2436.2,337,8,Yes,Low
+REC00636,2021-04-29,Eastern,Mbale,Woodland,5371.41,245.3,1711.8,302,7,No,Medium
+REC00637,2024-08-11,Central,Mukono,Plantation,1781.24,24.05,1131.3,140,14,Yes,High
+REC00638,2021-07-25,Central,Mukono,Woodland,7403.25,534.02,1098.3,281,18,Yes,High
+REC00639,2022-06-26,Northern,Gulu,Plantation,9425.33,104.71,1577.2,104,20,No,Medium
+REC00640,2021-09-16,Central,Mukono,Dry Forest,8936.66,613.29,1023.6,716,2,Yes,High
+REC00641,2023-03-16,Western,Kabale,Dry Forest,7767.13,444.0,2069.0,269,12,Yes,High
+REC00642,2023-04-14,Central,Wakiso,Dry Forest,1536.33,19.95,1003.2,239,14,No,Low
+REC00643,2021-11-20,Central,Mukono,Plantation,7298.72,296.37,2183.3,233,18,No,Medium
+REC00644,2023-08-20,Western,Kabale,Plantation,2041.72,35.86,1112.9,859,22,Yes,High
+REC00645,2022-05-01,Eastern,Mbale,Plantation,792.44,56.08,2434.8,548,16,No,Low
+REC00646,2021-01-10,Western,Kabale,Montane Forest,1513.29,48.54,1991.9,303,8,Yes,Low
+REC00647,2023-09-28,Central,Mukono,Dry Forest,502.99,4.79,2319.8,38,4,No,Low
+REC00648,2021-10-04,Western,Kabale,Dry Forest,5595.3,90.14,1378.4,132,11,Yes,High
+REC00649,2024-04-13,Eastern,Mbale,Dry Forest,5345.73,68.69,706.1,187,14,Yes,High
+REC00650,2021-03-21,Western,Kabale,Dry Forest,9269.55,89.03,1423.1,453,22,No,Low
+REC00651,2022-08-24,Central,Mukono,Woodland,8116.3,506.82,2361.7,541,5,Yes,High
+REC00652,2023-03-20,Western,Kabale,Tropical Rainforest,586.86,34.18,735.7,502,18,No,Low
+REC00653,2022-08-24,Western,Mbarara,Tropical Rainforest,1794.57,7.81,867.6,506,4,Yes,Low
+REC00654,2022-11-10,Northern,Gulu,Mangrove,6723.66,221.15,1502.4,87,19,No,Medium
+REC00655,2024-07-02,Western,Kabale,Montane Forest,8591.77,421.02,1410.9,628,4,No,High
+REC00656,2023-01-07,Western,Kabale,Plantation,747.79,52.83,1784.9,195,11,No,Low
+REC00657,2021-03-18,Western,Mbarara,Plantation,5082.77,9.69,1338.0,32,17,No,Low
+REC00658,2022-12-11,Central,Mukono,Tropical Rainforest,8443.37,480.04,1297.0,190,11,No,High
+REC00659,2022-10-22,Eastern,Mbale,Woodland,6880.95,243.45,1918.6,78,7,Yes,Medium
+REC00660,2022-12-30,Eastern,Mbale,Mangrove,6266.23,301.32,862.3,277,19,Yes,High
+REC00661,2024-10-11,Western,Mbarara,Montane Forest,7091.12,238.6,2497.2,705,11,Yes,High
+REC00662,2022-08-21,Eastern,Mbale,Plantation,9305.25,276.38,2191.7,482,15,Yes,High
+REC00663,2024-09-27,Western,Kabale,Woodland,6640.75,150.89,763.3,591,11,Yes,High
+REC00664,2024-05-19,Northern,Gulu,Plantation,9694.54,30.41,2000.0,49,22,No,Low
+REC00665,2021-04-03,Western,Kabale,Mangrove,2847.77,26.01,2133.3,640,1,Yes,Low
+REC00666,2023-10-08,Central,Wakiso,Woodland,7610.37,508.39,1919.2,875,2,No,High
+REC00667,2022-10-09,Central,Mukono,Mangrove,9870.5,489.67,1231.2,172,24,No,High
+REC00668,2022-05-29,Eastern,Mbale,Montane Forest,1573.08,54.6,1097.3,129,12,No,Low
+REC00669,2024-05-15,Central,Mukono,Dry Forest,2513.75,88.64,2392.9,297,6,Yes,Low
+REC00670,2023-04-17,Central,Wakiso,Montane Forest,6188.12,26.19,2345.4,354,10,Yes,Low
+REC00671,2023-05-27,Central,Mukono,Montane Forest,7682.27,53.94,1991.3,479,17,Yes,High
+REC00672,2024-10-28,Eastern,Mbale,Plantation,2014.38,29.96,2108.2,163,14,No,Low
+REC00673,2024-12-02,Eastern,Mbale,Dry Forest,7040.55,241.79,1359.6,855,10,Yes,Medium
+REC00674,2022-01-16,Central,Wakiso,Plantation,7943.88,190.69,1949.1,98,9,Yes,Medium
+REC00675,2022-03-25,Western,Kabale,Montane Forest,6809.86,272.98,1968.8,430,5,No,Medium
+REC00676,2023-10-08,Central,Mukono,Mangrove,744.79,25.25,975.1,268,12,No,Low
+REC00677,2022-01-31,Central,Wakiso,Montane Forest,4960.36,110.11,1127.1,822,25,No,Medium
+REC00678,2022-06-02,Central,Mukono,Woodland,2746.23,158.74,1392.0,739,0,No,Medium
+REC00679,2022-11-11,Eastern,Mbale,Montane Forest,8412.44,580.91,1266.6,280,15,No,High
+REC00680,2021-04-22,Eastern,Mbale,Montane Forest,1051.9,77.14,1088.3,212,3,Yes,Low
+REC00681,2021-07-12,Central,Mukono,Tropical Rainforest,8003.82,256.01,1755.3,823,8,Yes,Medium
+REC00682,2023-12-05,Central,Wakiso,Montane Forest,6733.87,202.44,2028.2,857,7,Yes,Medium
+REC00683,2022-07-26,Northern,Gulu,Mangrove,7342.6,227.37,1309.1,305,5,No,Medium
+REC00684,2024-06-17,Central,Wakiso,Montane Forest,4013.56,283.75,1784.7,111,15,Yes,High
+REC00685,2022-04-02,Central,Wakiso,Mangrove,1390.45,45.96,1249.0,282,19,Yes,High
+REC00686,2022-08-19,Eastern,Mbale,Montane Forest,6433.15,233.4,2137.3,170,15,Yes,High
+REC00687,2024-06-04,Central,Mukono,Woodland,7346.0,479.34,936.1,703,22,Yes,High
+REC00688,2024-03-28,Central,Wakiso,Dry Forest,8197.32,594.38,1853.3,638,19,No,High
+REC00689,2024-11-02,Western,Mbarara,Plantation,1168.55,19.72,2131.5,604,20,No,Low
+REC00690,2022-07-03,Central,Mukono,Dry Forest,7453.4,271.82,2179.9,257,14,Yes,High
+REC00691,2022-02-08,Eastern,Mbale,Mangrove,9600.05,360.22,1024.8,143,8,No,High
+REC00692,2021-11-25,Central,Mukono,Woodland,3587.77,142.64,829.5,776,21,No,Medium
+REC00693,2023-07-23,Eastern,Mbale,Mangrove,1115.81,88.25,1520.7,584,16,No,Low
+REC00694,2022-06-03,Central,Mukono,Tropical Rainforest,7672.17,188.74,1210.3,41,4,No,Medium
+REC00695,2022-12-29,Western,Kabale,Plantation,9058.57,485.56,720.3,236,0,No,High
+REC00696,2024-12-24,Eastern,Mbale,Plantation,2539.31,24.51,1664.3,495,25,Yes,High
+REC00697,2022-06-24,Central,Wakiso,Woodland,8583.87,56.1,890.1,456,15,Yes,High
+REC00698,2024-07-23,Central,Wakiso,Montane Forest,4127.4,80.89,2458.9,508,25,Yes,High
+REC00699,2021-08-31,Western,Kabale,Tropical Rainforest,8548.82,296.45,899.6,311,22,Yes,High
+REC00700,2024-11-21,Central,Wakiso,Woodland,2470.37,7.23,868.9,669,24,Yes,High
+REC00701,2023-12-17,Central,Wakiso,Woodland,2936.63,199.25,2034.6,44,13,Yes,High
+REC00702,2022-05-26,Central,Mukono,Plantation,4389.85,65.89,1386.5,665,13,No,Low
+REC00703,2024-01-05,Western,Mbarara,Dry Forest,6304.45,133.42,881.9,612,6,No,Medium
+REC00704,2022-08-11,Central,Mukono,Plantation,1257.25,92.18,1097.4,104,7,Yes,Low
+REC00705,2022-12-28,Western,Mbarara,Tropical Rainforest,7073.05,290.9,2164.3,254,21,No,Medium
+REC00706,2023-08-28,Central,Mukono,Montane Forest,5798.96,256.39,2155.7,889,12,No,Medium
+REC00707,2024-10-09,Central,Mukono,Woodland,9183.13,342.66,1224.0,500,11,Yes,High
+REC00708,2022-07-25,Central,Mukono,Dry Forest,6935.03,279.24,2339.7,427,11,Yes,High
+REC00709,2023-11-22,Northern,Gulu,Mangrove,1554.35,11.91,1344.3,180,7,No,Low
+REC00710,2021-10-11,Central,Wakiso,Woodland,8124.14,262.37,2041.5,580,16,Yes,High
+REC00711,2021-11-06,Western,Kabale,Plantation,1344.31,11.51,1229.8,53,19,No,Low
+REC00712,2023-05-20,Central,Wakiso,Tropical Rainforest,3181.69,178.82,1664.6,876,1,No,Medium
+REC00713,2024-10-09,Central,Mukono,Woodland,6145.03,319.05,1253.7,596,25,No,High
+REC00714,2023-07-30,Central,Mukono,Dry Forest,290.33,16.67,1130.3,235,15,Yes,High
+REC00715,2024-09-21,Central,Wakiso,Woodland,1826.18,121.09,1651.9,481,2,No,Medium
+REC00716,2023-06-17,Eastern,Mbale,Mangrove,4672.56,341.28,1951.4,531,23,Yes,High
+REC00717,2021-08-21,Western,Kabale,Plantation,1153.32,85.86,1365.1,606,17,Yes,High
+REC00718,2022-02-07,Eastern,Mbale,Woodland,446.26,28.81,2014.0,488,3,Yes,Low
+REC00719,2024-01-18,Western,Kabale,Montane Forest,3150.41,94.0,1433.3,736,2,Yes,Low
+REC00720,2022-03-02,Western,Mbarara,Mangrove,8815.32,487.68,1322.5,715,25,Yes,High
+REC00721,2024-04-28,Central,Wakiso,Mangrove,9638.11,606.91,1379.8,607,2,No,High
+REC00722,2024-02-27,Western,Kabale,Dry Forest,5824.2,32.04,1199.5,426,4,Yes,Low
+REC00723,2022-07-25,Eastern,Mbale,Tropical Rainforest,4182.56,115.86,2281.7,491,23,No,Medium
+REC00724,2021-04-29,Western,Kabale,Plantation,7231.51,210.99,1788.5,300,8,No,Medium
+REC00725,2023-11-13,Central,Mukono,Dry Forest,8648.94,514.02,913.3,509,20,Yes,High
+REC00726,2021-01-05,Central,Wakiso,Dry Forest,121.3,6.34,1990.4,505,4,No,Low
+REC00727,2021-06-26,Eastern,Mbale,Mangrove,9910.07,747.23,1902.8,432,4,Yes,High
+REC00728,2023-02-17,Central,Wakiso,Woodland,1379.06,94.35,1669.4,715,18,No,Low
+REC00729,2022-12-31,Eastern,Mbale,Plantation,2603.58,43.42,2099.8,690,2,No,Low
+REC00730,2022-12-27,Eastern,Mbale,Montane Forest,4456.58,43.63,1686.8,657,10,Yes,Low
+REC00731,2023-05-17,Central,Mukono,Montane Forest,8394.22,253.86,1235.1,75,24,No,Medium
+REC00732,2024-07-19,Western,Kabale,Plantation,7951.59,70.79,1437.9,374,0,Yes,Low
+REC00733,2024-08-17,Northern,Gulu,Mangrove,1070.32,13.92,1606.2,57,16,Yes,High
+REC00734,2024-07-19,Central,Wakiso,Mangrove,624.67,22.49,775.8,78,11,No,Low
+REC00735,2021-11-30,Western,Mbarara,Dry Forest,9357.84,197.17,2329.7,409,23,No,Medium
+REC00736,2022-08-04,Western,Mbarara,Dry Forest,2416.47,23.47,981.9,334,20,Yes,High
+REC00737,2021-02-20,Western,Kabale,Dry Forest,1603.77,84.66,1126.9,502,16,Yes,High
+REC00738,2024-04-09,Western,Kabale,Tropical Rainforest,4781.64,266.44,1244.0,756,13,No,Medium
+REC00739,2021-10-22,Central,Mukono,Woodland,8006.13,584.17,856.7,99,18,No,High
+REC00740,2022-08-17,Western,Kabale,Woodland,3383.87,55.07,1821.1,355,8,Yes,Low
+REC00741,2021-07-08,Central,Wakiso,Plantation,5316.31,391.76,1594.8,458,2,Yes,High
+REC00742,2021-11-28,Northern,Gulu,Plantation,2400.18,112.09,1959.6,623,12,No,Medium
+REC00743,2023-09-26,Eastern,Mbale,Plantation,9587.98,127.39,1491.3,416,2,Yes,Medium
+REC00744,2024-04-25,Northern,Gulu,Plantation,1165.49,3.57,2128.9,281,19,No,Low
+REC00745,2021-06-06,Eastern,Mbale,Woodland,4174.16,299.46,1156.2,622,15,No,Medium
+REC00746,2024-12-31,Western,Mbarara,Plantation,1034.76,63.03,2407.3,258,23,Yes,High
+REC00747,2021-06-13,Central,Mukono,Mangrove,1941.06,124.97,1899.2,190,24,No,Medium
+REC00748,2024-06-10,Eastern,Mbale,Mangrove,1917.39,107.89,2320.1,80,6,No,Medium
+REC00749,2024-08-09,Western,Kabale,Dry Forest,3882.25,155.13,2338.4,146,11,Yes,High
+REC00750,2023-03-31,Western,Mbarara,Woodland,6444.54,115.38,1981.5,882,16,Yes,High
+REC00751,2023-04-20,Central,Wakiso,Dry Forest,4649.03,188.74,967.2,591,24,No,Medium
+REC00752,2021-03-29,Eastern,Mbale,Woodland,3183.42,119.02,2037.5,288,9,No,Medium
+REC00753,2022-11-03,Central,Wakiso,Dry Forest,3977.76,3.39,1580.6,898,22,Yes,High
+REC00754,2024-01-31,Central,Mukono,Mangrove,4221.16,260.27,953.8,458,13,Yes,High
+REC00755,2023-01-17,Central,Mukono,Montane Forest,7642.9,545.93,1800.2,745,24,No,High
+REC00756,2022-12-22,Western,Kabale,Woodland,7532.4,214.86,2437.7,32,8,Yes,Medium
+REC00757,2021-10-26,Central,Mukono,Mangrove,3756.87,276.93,2472.5,84,18,No,Medium
+REC00758,2021-11-05,Western,Kabale,Plantation,796.98,52.44,2069.3,283,6,No,Low
+REC00759,2023-03-08,Western,Mbarara,Plantation,1405.45,65.25,802.4,757,21,No,Low
+REC00760,2022-10-04,Eastern,Mbale,Mangrove,2348.68,97.03,2317.6,78,3,No,Low
+REC00761,2023-01-22,Central,Mukono,Mangrove,6092.57,136.54,1818.5,171,10,Yes,Medium
+REC00762,2024-04-19,Western,Mbarara,Woodland,3866.0,145.45,1706.9,331,21,Yes,High
+REC00763,2024-10-16,Central,Wakiso,Tropical Rainforest,3256.86,79.21,1159.5,735,4,No,Low
+REC00764,2024-08-23,Central,Wakiso,Woodland,8521.49,117.75,857.8,564,10,No,Medium
+REC00765,2022-07-11,Western,Kabale,Mangrove,3727.52,0.1,1734.5,761,6,Yes,Low
+REC00766,2021-03-19,Eastern,Mbale,Montane Forest,5956.13,323.8,1008.4,52,9,No,High
+REC00767,2024-03-05,Western,Kabale,Plantation,8327.82,653.17,1962.1,899,9,No,High
+REC00768,2021-03-19,Central,Wakiso,Montane Forest,7642.51,255.14,2456.7,92,12,No,Medium
+REC00769,2023-04-07,Eastern,Mbale,Mangrove,7196.39,266.05,2084.3,522,4,No,Medium
+REC00770,2024-09-05,Western,Kabale,Mangrove,1447.77,29.84,1461.7,32,25,No,Low
+REC00771,2021-04-27,Western,Mbarara,Montane Forest,3561.22,201.19,1363.1,862,4,No,Medium
+REC00772,2022-02-12,Central,Wakiso,Tropical Rainforest,3151.97,6.53,1897.8,49,11,Yes,High
+REC00773,2022-03-18,Central,Wakiso,Tropical Rainforest,1262.45,7.48,1271.9,556,5,No,Low
+REC00774,2024-07-30,Eastern,Mbale,Montane Forest,4412.35,62.89,870.2,384,5,Yes,Low
+REC00775,2023-02-12,Eastern,Mbale,Mangrove,7414.11,526.39,2444.4,395,17,No,High
+REC00776,2023-11-03,Eastern,Mbale,Dry Forest,6621.02,156.61,2079.1,765,24,No,Medium
+REC00777,2024-05-24,Northern,Gulu,Tropical Rainforest,1724.22,107.76,1987.7,876,18,No,Medium
+REC00778,2024-03-01,Central,Wakiso,Dry Forest,1063.7,73.76,890.6,685,24,No,Low
+REC00779,2022-10-10,Central,Wakiso,Montane Forest,8294.36,24.04,1713.8,662,9,Yes,Low
+REC00780,2021-01-07,Western,Mbarara,Woodland,6772.91,183.22,1321.2,838,17,Yes,High
+REC00781,2024-07-30,Central,Wakiso,Dry Forest,3403.87,6.45,1910.5,829,24,No,Low
+REC00782,2024-12-25,Northern,Gulu,Dry Forest,8607.46,112.19,1525.8,46,23,No,Medium
+REC00783,2023-06-18,Central,Wakiso,Mangrove,453.67,11.33,944.3,818,2,Yes,Low
+REC00784,2024-09-02,Eastern,Mbale,Montane Forest,3049.02,75.56,1507.1,886,25,Yes,High
+REC00785,2024-05-07,Central,Wakiso,Woodland,546.34,25.04,2147.7,668,17,Yes,High
+REC00786,2024-11-20,Western,Mbarara,Mangrove,6727.08,40.87,1253.2,508,17,Yes,High
+REC00787,2022-04-21,Northern,Gulu,Tropical Rainforest,701.0,45.67,2285.3,726,0,Yes,Low
+REC00788,2023-11-30,Eastern,Mbale,Woodland,8376.06,385.93,866.8,751,11,No,High
+REC00789,2024-08-07,Western,Kabale,Montane Forest,6956.04,186.28,1765.5,46,6,No,Medium
+REC00790,2023-01-12,Western,Kabale,Woodland,9238.83,403.73,1284.5,612,1,No,High
+REC00791,2023-09-27,Western,Mbarara,Woodland,1967.99,111.09,855.2,307,25,No,Medium
+REC00792,2024-04-16,Northern,Gulu,Tropical Rainforest,8495.36,85.61,1118.9,165,10,Yes,Low
+REC00793,2021-04-16,Western,Mbarara,Woodland,7920.18,183.26,2422.8,412,22,Yes,High
+REC00794,2022-10-25,Central,Wakiso,Woodland,5798.49,368.74,2356.6,284,21,No,High
+REC00795,2023-04-20,Western,Kabale,Woodland,6255.4,244.95,1040.6,46,3,Yes,Medium
+REC00796,2024-06-17,Central,Mukono,Tropical Rainforest,2481.91,194.05,1559.8,658,10,No,Medium
+REC00797,2022-05-08,Central,Mukono,Tropical Rainforest,4358.09,331.4,2246.4,415,12,No,High
+REC00798,2024-07-23,Western,Mbarara,Tropical Rainforest,4747.26,356.9,1860.7,127,21,No,High
+REC00799,2022-08-10,Western,Kabale,Plantation,893.21,64.13,1128.4,369,8,Yes,Low
+REC00800,2022-11-21,Central,Mukono,Plantation,8816.28,144.98,2162.1,447,10,No,Medium
+REC00801,2024-12-25,Central,Mukono,Mangrove,9992.51,398.52,2175.1,234,20,No,High
+REC00802,2023-07-02,Western,Mbarara,Mangrove,4588.61,312.71,1376.6,103,4,No,High
+REC00803,2022-03-23,Northern,Gulu,Plantation,971.93,15.2,882.6,522,19,No,Low
+REC00804,2023-08-16,Eastern,Mbale,Tropical Rainforest,6596.66,185.13,1616.7,255,9,No,Medium
+REC00805,2024-08-14,Northern,Gulu,Montane Forest,8911.76,662.65,2120.7,793,14,Yes,High
+REC00806,2021-08-16,Central,Wakiso,Montane Forest,9470.32,133.08,1715.0,615,22,No,Medium
+REC00807,2023-10-03,Western,Kabale,Dry Forest,8275.11,10.72,1407.1,322,13,Yes,High
+REC00808,2024-06-27,Northern,Gulu,Montane Forest,1804.3,13.34,1419.9,457,17,No,Low
+REC00809,2022-01-29,Central,Mukono,Plantation,4925.83,96.29,1168.6,799,1,No,Low
+REC00810,2023-12-10,Northern,Gulu,Dry Forest,6989.68,82.92,1948.1,462,3,No,Low
+REC00811,2021-01-12,Central,Mukono,Montane Forest,9778.45,426.49,2196.7,570,1,No,High
+REC00812,2021-04-22,Eastern,Mbale,Montane Forest,4731.66,301.49,1595.4,129,13,No,High
+REC00813,2024-05-19,Western,Mbarara,Mangrove,8169.42,559.1,1077.4,558,10,Yes,High
+REC00814,2024-01-20,Central,Mukono,Dry Forest,2947.71,132.95,2055.3,662,19,No,Medium
+REC00815,2022-03-18,Western,Mbarara,Plantation,9879.0,557.96,1029.6,349,12,No,High
+REC00816,2021-03-09,Western,Mbarara,Mangrove,3895.72,147.23,2197.0,637,11,Yes,High
+REC00817,2021-05-01,Western,Mbarara,Mangrove,764.4,43.85,1448.5,798,24,Yes,High
+REC00818,2024-11-10,Western,Kabale,Dry Forest,9455.64,469.69,1189.5,422,13,No,High
+REC00819,2023-10-11,Western,Mbarara,Montane Forest,2389.59,80.5,780.8,583,11,Yes,High
+REC00820,2023-08-28,Central,Mukono,Tropical Rainforest,8271.97,24.61,1163.6,532,18,No,Low
+REC00821,2022-10-20,Western,Mbarara,Dry Forest,4622.99,248.4,1416.2,741,3,Yes,Medium
+REC00822,2024-02-05,Central,Wakiso,Montane Forest,2390.35,85.64,1763.7,240,18,Yes,High
+REC00823,2022-10-23,Northern,Gulu,Dry Forest,7637.79,118.85,1011.1,118,4,Yes,Medium
+REC00824,2023-01-01,Central,Wakiso,Dry Forest,705.35,34.75,930.5,106,14,Yes,High
+REC00825,2022-08-30,Western,Kabale,Mangrove,8213.63,489.9,1224.9,887,18,No,High
+REC00826,2023-06-20,Central,Wakiso,Montane Forest,3542.78,162.57,1373.1,872,4,Yes,Medium
+REC00827,2022-05-18,Northern,Gulu,Dry Forest,7192.06,255.23,1409.8,123,23,No,Medium
+REC00828,2021-07-15,Western,Kabale,Montane Forest,2067.17,5.01,1463.7,844,12,No,Low
+REC00829,2023-05-01,Western,Kabale,Tropical Rainforest,3432.92,235.87,2111.5,250,18,Yes,High
+REC00830,2024-09-12,Central,Mukono,Dry Forest,3843.69,56.25,1491.7,865,0,No,Low
+REC00831,2021-12-24,Northern,Gulu,Tropical Rainforest,4772.61,171.92,2318.7,287,11,Yes,High
+REC00832,2024-05-23,Central,Wakiso,Montane Forest,966.91,17.75,1250.1,454,24,Yes,High
+REC00833,2021-01-08,Western,Kabale,Montane Forest,4308.12,271.05,1296.6,549,12,No,Medium
+REC00834,2022-09-09,Central,Wakiso,Dry Forest,7440.88,372.56,1650.1,207,22,No,High
+REC00835,2023-09-02,Northern,Gulu,Tropical Rainforest,1790.46,126.71,1183.3,819,22,No,Medium
+REC00836,2022-02-26,Eastern,Mbale,Tropical Rainforest,9154.66,160.36,776.0,614,22,No,Medium
+REC00837,2022-05-05,Northern,Gulu,Tropical Rainforest,9366.05,504.61,1322.2,792,14,Yes,High
+REC00838,2022-07-19,Eastern,Mbale,Mangrove,7191.71,463.94,2425.2,694,24,No,High
+REC00839,2022-09-20,Western,Kabale,Plantation,3507.49,265.42,1284.2,112,3,No,Medium
+REC00840,2023-11-24,Western,Mbarara,Plantation,8477.66,655.82,772.3,838,2,No,High
+REC00841,2021-12-15,Central,Mukono,Dry Forest,7035.66,475.27,1192.4,238,24,No,High
+REC00842,2021-06-13,Central,Wakiso,Plantation,8918.12,171.19,1280.7,611,22,Yes,High
+REC00843,2024-09-23,Central,Wakiso,Mangrove,2630.43,175.0,847.5,410,19,No,Medium
+REC00844,2022-09-11,Eastern,Mbale,Mangrove,7642.63,415.06,1119.5,883,19,No,High
+REC00845,2023-03-01,Central,Wakiso,Tropical Rainforest,1342.41,38.49,1935.0,435,10,No,Low
+REC00846,2021-02-05,Eastern,Mbale,Woodland,4059.83,189.43,1017.7,699,1,Yes,Medium
+REC00847,2023-09-05,Central,Wakiso,Tropical Rainforest,8499.92,409.94,1835.4,397,13,No,High
+REC00848,2023-09-26,Central,Mukono,Mangrove,8553.45,663.95,1108.8,214,12,Yes,High
+REC00849,2021-12-19,Western,Mbarara,Tropical Rainforest,285.09,11.75,2017.4,717,15,No,Low
+REC00850,2023-10-27,Northern,Gulu,Montane Forest,2584.29,154.38,1076.3,269,12,Yes,High
+REC00851,2023-08-17,Northern,Gulu,Tropical Rainforest,4865.0,103.89,1095.9,747,0,No,Medium
+REC00852,2024-07-20,Central,Mukono,Tropical Rainforest,3444.08,207.23,1078.3,400,8,No,Medium
+REC00853,2022-04-30,Western,Kabale,Woodland,5879.58,398.38,2040.0,838,22,No,High
+REC00854,2023-02-14,Northern,Gulu,Tropical Rainforest,3257.45,103.29,1995.3,214,17,No,Medium
+REC00855,2023-04-09,Western,Mbarara,Dry Forest,2291.42,156.3,1046.9,371,24,No,Medium
+REC00856,2021-12-16,Western,Mbarara,Woodland,4826.11,206.73,1962.1,862,1,No,Medium
+REC00857,2022-08-20,Northern,Gulu,Dry Forest,780.52,16.4,703.1,646,17,No,Low
+REC00858,2023-10-03,Central,Mukono,Tropical Rainforest,3794.67,295.99,2023.3,821,17,Yes,High
+REC00859,2023-05-26,Central,Wakiso,Montane Forest,9245.61,591.19,2390.3,254,5,Yes,High
+REC00860,2023-03-13,Central,Wakiso,Dry Forest,8210.21,371.69,1202.2,596,21,No,High
+REC00861,2021-04-20,Northern,Gulu,Woodland,3478.27,217.85,1667.4,610,10,Yes,Medium
+REC00862,2021-10-03,Northern,Gulu,Woodland,7945.14,226.21,2401.5,60,9,Yes,Medium
+REC00863,2024-01-02,Central,Wakiso,Tropical Rainforest,5567.15,69.44,1370.1,778,12,Yes,High
+REC00864,2024-01-05,Western,Mbarara,Mangrove,4953.45,363.8,1171.7,232,12,Yes,High
+REC00865,2022-02-26,Northern,Gulu,Mangrove,607.12,18.85,808.1,240,10,No,Low
+REC00866,2022-10-31,Western,Kabale,Tropical Rainforest,8092.87,321.94,2452.9,273,1,No,High
+REC00867,2024-05-09,Northern,Gulu,Dry Forest,2613.28,109.65,1829.5,465,10,Yes,Medium
+REC00868,2024-04-03,Western,Kabale,Montane Forest,4741.52,127.31,814.5,356,6,No,Medium
+REC00869,2021-11-15,Central,Wakiso,Tropical Rainforest,7703.27,515.6,1817.7,681,4,No,High
+REC00870,2024-09-18,Northern,Gulu,Tropical Rainforest,5194.46,146.83,861.6,453,2,Yes,Medium
+REC00871,2022-06-05,Northern,Gulu,Tropical Rainforest,5653.17,246.98,878.7,361,4,No,Medium
+REC00872,2023-02-08,Western,Kabale,Dry Forest,1210.02,43.29,1017.1,403,6,No,Low
+REC00873,2022-10-24,Western,Mbarara,Tropical Rainforest,6237.76,78.77,2124.7,868,12,Yes,High
+REC00874,2024-09-05,Western,Mbarara,Tropical Rainforest,2920.05,26.68,2380.0,665,16,No,Low
+REC00875,2024-04-26,Northern,Gulu,Woodland,4508.13,18.25,1683.6,588,20,No,Low
+REC00876,2023-01-02,Western,Kabale,Mangrove,9445.88,637.33,1220.5,293,21,Yes,High
+REC00877,2021-03-05,Eastern,Mbale,Woodland,1700.67,128.3,2391.9,830,4,No,Medium
+REC00878,2024-06-25,Central,Wakiso,Tropical Rainforest,2464.45,140.44,2338.1,208,4,No,Medium
+REC00879,2022-05-12,Central,Mukono,Mangrove,2808.17,159.76,1571.3,712,3,No,Medium
+REC00880,2024-12-14,Eastern,Mbale,Woodland,3470.47,243.56,824.0,179,3,No,Medium
+REC00881,2022-08-25,Eastern,Mbale,Dry Forest,2500.05,167.97,1899.4,394,23,No,Medium
+REC00882,2024-03-18,Central,Wakiso,Woodland,9441.22,513.14,2019.9,108,4,No,High
+REC00883,2023-12-19,Northern,Gulu,Woodland,8907.57,342.85,1823.6,424,17,No,High
+REC00884,2021-12-09,Central,Wakiso,Tropical Rainforest,5760.31,319.25,2247.5,865,24,No,High
+REC00885,2021-01-09,Central,Mukono,Woodland,2695.65,18.24,1957.7,660,13,No,Low
+REC00886,2023-06-19,Eastern,Mbale,Dry Forest,4919.3,174.93,2193.8,619,7,No,Medium
+REC00887,2021-03-09,Western,Mbarara,Dry Forest,135.18,1.99,1327.3,72,18,Yes,High
+REC00888,2023-11-05,Central,Mukono,Plantation,2234.6,60.71,2038.8,192,18,Yes,High
+REC00889,2023-01-11,Central,Mukono,Dry Forest,5876.11,177.38,1321.8,570,0,No,Medium
+REC00890,2021-07-04,Eastern,Mbale,Tropical Rainforest,2878.74,225.3,1902.6,266,25,No,Medium
+REC00891,2023-11-22,Central,Wakiso,Mangrove,2913.85,89.37,1728.8,140,6,Yes,Low
+REC00892,2024-03-13,Central,Mukono,Dry Forest,887.11,42.93,2400.1,699,16,No,Low
+REC00893,2023-02-02,Western,Kabale,Montane Forest,2628.49,6.92,1936.2,462,22,Yes,High
+REC00894,2024-01-27,Central,Mukono,Mangrove,1761.79,25.33,2434.8,761,4,No,Low
+REC00895,2021-10-31,Western,Kabale,Plantation,4896.64,226.78,2397.7,116,9,Yes,Medium
+REC00896,2023-03-25,Northern,Gulu,Plantation,4919.48,264.39,1214.7,791,23,No,Medium
+REC00897,2021-02-12,Eastern,Mbale,Tropical Rainforest,2386.45,18.95,776.8,85,7,Yes,Low
+REC00898,2024-11-26,Eastern,Mbale,Plantation,5833.21,400.6,724.7,297,16,Yes,High
+REC00899,2022-11-21,Northern,Gulu,Dry Forest,6015.65,382.89,1465.7,546,17,Yes,High
+REC00900,2021-08-19,Central,Wakiso,Dry Forest,1007.87,76.44,1115.9,250,4,Yes,Low
+REC00901,2021-04-25,Eastern,Mbale,Tropical Rainforest,4186.4,258.49,2272.1,568,12,No,Medium
+REC00902,2021-11-30,Western,Kabale,Mangrove,2040.35,39.64,2102.4,837,6,Yes,Low
+REC00903,2022-07-08,Eastern,Mbale,Dry Forest,3357.47,182.96,1026.4,491,8,Yes,Medium
+REC00904,2022-08-01,Central,Wakiso,Plantation,9654.53,305.65,2289.2,156,8,Yes,High
+REC00905,2024-04-10,Eastern,Mbale,Tropical Rainforest,5882.41,254.11,1135.4,169,3,Yes,Medium
+REC00906,2024-07-17,Western,Mbarara,Mangrove,7579.56,40.63,1655.1,811,4,No,Low
+REC00907,2022-12-29,Central,Mukono,Montane Forest,9275.27,493.51,2119.7,295,7,No,High
+REC00908,2023-08-08,Northern,Gulu,Montane Forest,9305.36,199.83,762.0,171,5,Yes,Medium
+REC00909,2021-04-16,Central,Mukono,Plantation,9288.54,195.85,1289.4,595,19,No,Medium
+REC00910,2023-06-20,Western,Mbarara,Woodland,1074.75,75.84,2320.7,882,0,Yes,Low
+REC00911,2022-05-09,Western,Mbarara,Woodland,3301.66,86.87,2466.5,223,20,Yes,High
+REC00912,2024-09-13,Eastern,Mbale,Mangrove,3949.56,191.56,2072.2,204,9,Yes,Medium
+REC00913,2022-10-30,Western,Mbarara,Woodland,2280.46,27.87,2182.9,343,13,No,Low
+REC00914,2022-05-23,Western,Mbarara,Woodland,2220.89,6.32,1235.9,635,4,No,Low
+REC00915,2023-08-10,Northern,Gulu,Montane Forest,1484.84,21.77,2477.4,107,22,Yes,High
+REC00916,2024-10-18,Central,Mukono,Montane Forest,9092.49,77.46,719.6,683,22,No,Low
+REC00917,2022-10-21,Central,Mukono,Montane Forest,6686.57,442.95,1219.8,177,10,Yes,High
+REC00918,2022-04-23,Western,Kabale,Tropical Rainforest,9298.9,345.14,1462.1,765,10,Yes,High
+REC00919,2024-05-29,Eastern,Mbale,Dry Forest,3873.3,168.86,847.3,155,5,No,Medium
+REC00920,2021-12-07,Eastern,Mbale,Mangrove,8165.83,374.42,1921.5,845,16,Yes,High
+REC00921,2023-07-25,Central,Mukono,Mangrove,4805.31,369.39,2158.7,321,7,Yes,High
+REC00922,2022-09-05,Northern,Gulu,Plantation,2538.49,160.38,1531.6,180,11,No,Medium
+REC00923,2021-12-24,Eastern,Mbale,Plantation,9297.36,616.48,1178.6,288,24,Yes,High
+REC00924,2024-06-27,Eastern,Mbale,Woodland,9792.69,150.29,1217.3,128,1,No,Medium
+REC00925,2023-09-03,Central,Mukono,Dry Forest,9712.56,115.44,1716.4,122,5,Yes,Medium
+REC00926,2024-08-04,Northern,Gulu,Woodland,2934.88,39.35,835.4,239,18,No,Low
+REC00927,2023-01-08,Northern,Gulu,Montane Forest,390.95,28.33,971.6,346,10,No,Low
+REC00928,2021-07-01,Western,Kabale,Dry Forest,2261.41,9.71,2304.4,634,0,No,Low
+REC00929,2024-03-26,Eastern,Mbale,Plantation,4433.17,213.26,962.2,231,22,Yes,High
+REC00930,2024-05-08,Central,Mukono,Dry Forest,2896.53,131.78,1392.8,231,24,No,Medium
+REC00931,2023-11-28,Eastern,Mbale,Woodland,7884.38,281.89,2288.3,585,22,Yes,High
+REC00932,2021-04-23,Western,Mbarara,Montane Forest,2004.43,58.67,2097.3,438,12,No,Low
+REC00933,2021-08-20,Eastern,Mbale,Woodland,1212.21,70.61,2338.6,105,1,Yes,Low
+REC00934,2021-07-23,Central,Mukono,Tropical Rainforest,4068.63,302.84,2039.5,473,6,Yes,High
+REC00935,2022-10-29,Eastern,Mbale,Mangrove,1496.75,25.06,1906.7,309,1,No,Low
+REC00936,2022-09-28,Eastern,Mbale,Woodland,2278.66,141.09,2441.8,222,9,No,Medium
+REC00937,2022-08-27,Western,Mbarara,Woodland,2354.49,9.95,861.1,738,11,Yes,High
+REC00938,2024-11-24,Western,Kabale,Montane Forest,423.44,29.27,2221.3,676,10,Yes,Low
+REC00939,2023-12-19,Northern,Gulu,Woodland,5611.91,332.54,989.3,285,11,No,High
+REC00940,2021-04-13,Western,Mbarara,Tropical Rainforest,3062.22,40.22,1626.2,664,13,No,Low
+REC00941,2024-12-23,Eastern,Mbale,Tropical Rainforest,983.43,21.42,1551.2,729,24,No,Low
+REC00942,2022-07-12,Eastern,Mbale,Woodland,5015.32,243.25,854.3,90,18,Yes,High
+REC00943,2022-03-21,Central,Wakiso,Montane Forest,8411.78,165.93,2166.8,395,2,Yes,Medium
+REC00944,2024-05-17,Eastern,Mbale,Plantation,8673.51,509.03,1232.2,234,21,No,High
+REC00945,2022-12-27,Western,Mbarara,Plantation,291.41,15.02,1242.7,384,22,Yes,High
+REC00946,2021-06-05,Western,Mbarara,Woodland,7815.08,2.45,1704.5,640,21,No,Low
+REC00947,2024-08-14,Northern,Gulu,Plantation,6369.51,419.8,1705.6,99,5,No,High
+REC00948,2024-07-09,Western,Kabale,Montane Forest,4010.83,249.09,2120.4,216,21,No,Medium
+REC00949,2023-12-28,Northern,Gulu,Mangrove,8041.33,223.52,1698.3,587,21,No,Medium
+REC00950,2022-06-18,Eastern,Mbale,Montane Forest,8135.89,243.7,1277.1,705,8,Yes,Medium
+REC00951,2022-07-04,Central,Wakiso,Woodland,3285.27,74.14,1863.2,69,18,Yes,High
+REC00952,2023-08-10,Central,Wakiso,Montane Forest,263.71,3.9,1161.2,163,9,Yes,Low
+REC00953,2024-11-02,Western,Kabale,Montane Forest,9983.69,649.13,2126.1,236,12,Yes,High
+REC00954,2021-09-10,Western,Mbarara,Tropical Rainforest,9400.59,566.72,2041.4,104,1,Yes,High
+REC00955,2022-07-31,Central,Mukono,Mangrove,5412.71,354.4,2358.4,351,0,No,High
+REC00956,2021-12-18,Western,Kabale,Plantation,489.93,8.9,803.9,190,23,Yes,High
+REC00957,2023-01-31,Central,Wakiso,Mangrove,4407.98,281.02,1475.5,879,15,No,Medium
+REC00958,2022-02-28,Eastern,Mbale,Tropical Rainforest,2002.78,103.12,1786.3,539,24,Yes,High
+REC00959,2022-03-10,Central,Mukono,Montane Forest,5660.29,311.63,861.2,630,12,No,High
+REC00960,2021-09-12,Eastern,Mbale,Tropical Rainforest,7984.07,515.87,1621.2,189,14,No,High
+REC00961,2024-01-31,Eastern,Mbale,Tropical Rainforest,2710.97,124.07,1061.1,841,1,Yes,Medium
+REC00962,2024-10-27,Northern,Gulu,Dry Forest,7912.09,452.01,2163.0,839,0,Yes,High
+REC00963,2021-11-12,Central,Wakiso,Tropical Rainforest,5733.6,40.12,1429.4,486,14,Yes,High
+REC00964,2022-11-04,Eastern,Mbale,Plantation,9901.12,274.16,2101.7,545,25,No,Medium
+REC00965,2021-10-21,Western,Mbarara,Mangrove,6127.69,280.83,2273.9,742,3,Yes,Medium
+REC00966,2022-12-23,Central,Wakiso,Plantation,3779.64,226.61,2328.3,788,4,No,Medium
+REC00967,2024-12-07,Eastern,Mbale,Dry Forest,8496.01,418.88,2197.8,467,0,Yes,High
+REC00968,2022-04-20,Eastern,Mbale,Plantation,8862.57,361.14,1946.2,519,19,Yes,High
+REC00969,2022-09-06,Western,Kabale,Plantation,9329.45,250.22,2425.0,211,24,No,Medium
+REC00970,2021-04-08,Western,Kabale,Tropical Rainforest,4127.56,76.3,1487.0,390,14,Yes,High
+REC00971,2022-08-26,Western,Kabale,Montane Forest,6320.64,110.28,1218.5,209,21,No,Medium
+REC00972,2023-01-20,Central,Wakiso,Montane Forest,1978.01,118.13,1630.6,484,1,Yes,Medium
+REC00973,2022-03-20,Northern,Gulu,Plantation,1099.93,82.2,1130.5,209,18,Yes,High
+REC00974,2024-11-04,Western,Mbarara,Woodland,1415.4,74.04,1479.8,574,24,No,Low
+REC00975,2022-10-16,Eastern,Mbale,Mangrove,2278.17,48.82,1104.3,179,25,No,Low
+REC00976,2021-04-12,Western,Kabale,Montane Forest,784.84,12.65,1658.8,796,19,Yes,High
+REC00977,2024-04-29,Western,Mbarara,Woodland,6074.98,107.25,1828.9,487,23,Yes,High
+REC00978,2024-11-15,Western,Mbarara,Dry Forest,467.68,29.01,1638.5,830,14,Yes,High
+REC00979,2021-01-11,Northern,Gulu,Dry Forest,5150.87,106.2,936.1,144,24,Yes,High
+REC00980,2021-06-02,Eastern,Mbale,Woodland,3685.38,82.27,2085.6,105,10,Yes,Low
+REC00981,2024-09-09,Western,Mbarara,Montane Forest,8309.07,167.01,1295.6,601,7,Yes,Medium
+REC00982,2024-01-12,Central,Mukono,Mangrove,7816.25,338.71,2213.1,494,5,Yes,High
+REC00983,2023-06-21,Western,Mbarara,Montane Forest,8572.77,219.79,1957.4,585,20,No,Medium
+REC00984,2022-12-07,Western,Kabale,Woodland,2231.07,155.29,1453.4,56,24,Yes,High
+REC00985,2023-12-09,Western,Kabale,Mangrove,2035.77,120.44,894.6,424,24,No,Medium
+REC00986,2024-06-22,Central,Wakiso,Woodland,2948.07,19.75,2100.2,180,19,No,Low
+REC00987,2023-01-18,Eastern,Mbale,Montane Forest,7688.8,105.62,1338.3,116,1,No,Medium
+REC00988,2024-09-04,Northern,Gulu,Mangrove,3047.18,28.44,1874.3,412,16,Yes,High
+REC00989,2021-02-03,Western,Mbarara,Tropical Rainforest,9094.34,72.3,1531.2,377,23,Yes,High
+REC00990,2023-04-21,Western,Mbarara,Mangrove,5278.07,374.29,2005.4,507,18,Yes,High
+REC00991,2024-01-12,Western,Kabale,Tropical Rainforest,8628.04,681.15,1599.8,342,4,No,High
+REC00992,2021-11-24,Central,Mukono,Plantation,3047.7,145.62,865.6,234,17,Yes,High
+REC00993,2022-08-15,Central,Wakiso,Plantation,1520.75,66.81,2138.1,146,17,Yes,High
+REC00994,2024-03-02,Western,Mbarara,Tropical Rainforest,7342.91,468.65,1335.1,281,15,No,High
+REC00995,2024-01-29,Central,Mukono,Dry Forest,9281.87,36.87,2172.6,120,24,No,Low
+REC00996,2024-01-30,Eastern,Mbale,Montane Forest,4862.38,51.54,921.0,617,18,Yes,High
+REC00997,2024-06-02,Central,Mukono,Mangrove,8934.13,387.25,1717.1,691,10,No,High
+REC00998,2021-02-21,Western,Kabale,Woodland,8123.8,371.96,1385.8,172,13,Yes,High
+REC00999,2022-11-17,Northern,Gulu,Montane Forest,1837.61,100.25,948.0,156,12,Yes,High
+REC01000,2023-04-10,Western,Mbarara,Mangrove,3092.0,35.82,1107.8,417,12,Yes,High
+REC01001,2024-05-23,Western,Mbarara,Woodland,3808.32,210.83,1098.7,547,20,No,Medium
+REC01002,2022-01-05,Northern,Gulu,Woodland,6857.34,317.27,2243.4,81,4,No,High
+REC01003,2022-08-01,Western,Kabale,Dry Forest,2791.61,67.63,2361.6,138,25,Yes,High
+REC01004,2024-05-12,Central,Mukono,Tropical Rainforest,141.56,9.69,1177.0,831,8,No,Low
+REC01005,2023-07-17,Eastern,Mbale,Tropical Rainforest,2989.98,103.96,1411.4,407,23,No,Medium
+REC01006,2023-03-02,Northern,Gulu,Woodland,5168.83,175.3,1162.1,125,1,No,Medium
+REC01007,2024-12-29,Western,Kabale,Tropical Rainforest,3035.31,134.14,1833.2,236,5,Yes,Medium
+REC01008,2022-10-30,Western,Kabale,Plantation,429.87,29.57,1131.2,540,0,Yes,Low
+REC01009,2022-07-13,Eastern,Mbale,Woodland,7253.16,141.06,1381.1,581,11,Yes,High
+REC01010,2021-12-11,Northern,Gulu,Montane Forest,9678.49,717.98,1306.5,555,15,No,High
+REC01011,2024-07-08,Central,Mukono,Woodland,7796.93,528.62,1641.7,79,15,Yes,High
+REC01012,2023-08-04,Central,Mukono,Dry Forest,2191.38,30.92,1057.2,803,22,No,Low
+REC01013,2022-03-03,Western,Kabale,Woodland,9083.66,597.83,2085.4,767,21,No,High
+REC01014,2024-01-23,Central,Wakiso,Tropical Rainforest,8911.35,431.78,722.2,310,15,No,High
+REC01015,2021-01-27,Eastern,Mbale,Montane Forest,361.14,13.89,1998.3,336,1,Yes,Low
+REC01016,2022-08-28,Northern,Gulu,Tropical Rainforest,1516.34,104.59,1035.7,659,9,Yes,Medium
+REC01017,2023-05-01,Northern,Gulu,Dry Forest,2532.17,62.98,1929.9,198,3,Yes,Low
+REC01018,2021-10-08,Western,Mbarara,Montane Forest,7188.06,482.03,2247.9,616,4,No,High
+REC01019,2022-08-06,Northern,Gulu,Mangrove,841.02,1.27,929.1,287,5,No,Low
+REC01020,2021-02-15,Western,Kabale,Tropical Rainforest,9572.22,681.47,772.3,796,11,Yes,High
+REC01021,2024-06-23,Western,Kabale,Dry Forest,9177.49,364.81,882.8,443,20,Yes,High
+REC01022,2024-12-03,Western,Mbarara,Mangrove,3381.65,258.51,2056.8,533,3,Yes,Medium
+REC01023,2023-10-11,Western,Kabale,Woodland,7043.42,361.56,700.9,230,25,Yes,High
+REC01024,2021-04-28,Eastern,Mbale,Montane Forest,8943.91,139.24,1058.6,360,19,Yes,High
+REC01025,2024-02-09,Northern,Gulu,Plantation,3011.02,119.3,1363.9,535,2,No,Medium
+REC01026,2023-05-04,Western,Kabale,Tropical Rainforest,7764.13,18.57,1405.9,440,0,No,Low
+REC01027,2022-11-29,Central,Mukono,Plantation,1359.42,41.96,1737.6,758,21,No,Low
+REC01028,2022-06-11,Central,Mukono,Montane Forest,9432.59,721.87,1655.4,822,22,No,High
+REC01029,2023-05-12,Central,Mukono,Dry Forest,5964.41,120.52,846.2,160,6,No,Medium
+REC01030,2023-04-22,Eastern,Mbale,Plantation,932.77,3.92,1796.5,854,0,Yes,Low
+REC01031,2023-08-17,Western,Mbarara,Woodland,8501.63,75.34,2474.9,436,23,Yes,High
+REC01032,2023-10-25,Western,Mbarara,Mangrove,3576.85,184.82,1960.0,92,15,No,Medium
+REC01033,2021-05-31,Central,Mukono,Mangrove,5273.42,82.02,1530.3,852,18,No,Low
+REC01034,2021-06-08,Northern,Gulu,Mangrove,7636.03,454.92,1138.6,765,17,No,High
+REC01035,2021-12-10,Central,Wakiso,Tropical Rainforest,9362.55,708.62,1505.1,220,20,Yes,High
+REC01036,2021-12-19,Northern,Gulu,Mangrove,3159.93,120.69,840.4,567,10,No,Medium
+REC01037,2023-07-13,Western,Kabale,Plantation,3212.46,34.26,2235.3,296,6,No,Low
+REC01038,2024-02-01,Central,Mukono,Tropical Rainforest,3979.21,295.71,1761.4,592,21,No,Medium
+REC01039,2023-03-29,Western,Mbarara,Dry Forest,2969.57,190.66,2153.2,507,25,No,Medium
+REC01040,2021-04-06,Eastern,Mbale,Dry Forest,9758.91,552.39,2033.7,392,5,No,High
+REC01041,2022-01-25,Northern,Gulu,Montane Forest,124.21,8.35,1914.9,870,6,Yes,Low
+REC01042,2024-01-03,Central,Mukono,Woodland,1958.14,88.31,2054.3,852,3,No,Low
+REC01043,2024-08-06,Central,Mukono,Dry Forest,345.86,6.25,1267.0,51,3,Yes,Low
+REC01044,2022-01-22,Western,Kabale,Woodland,3018.55,40.22,2113.6,167,18,Yes,High
+REC01045,2021-03-18,Northern,Gulu,Woodland,9196.5,180.76,1371.8,170,4,No,Medium
+REC01046,2021-03-20,Central,Wakiso,Dry Forest,6340.96,213.5,1359.8,877,24,No,Medium
+REC01047,2021-12-22,Western,Kabale,Mangrove,7516.44,34.85,1815.3,223,17,No,Low
+REC01048,2023-12-01,Northern,Gulu,Dry Forest,4842.5,268.44,1187.9,572,22,Yes,High
+REC01049,2023-02-11,Central,Mukono,Mangrove,8959.27,55.09,2325.8,90,9,Yes,Low
+REC01050,2021-08-28,Western,Mbarara,Plantation,7329.33,491.28,1003.0,521,15,Yes,High
+REC01051,2022-11-05,Central,Wakiso,Montane Forest,3325.01,255.77,1522.4,293,24,No,Medium
+REC01052,2023-03-21,Central,Wakiso,Montane Forest,3967.9,62.62,2328.5,663,7,Yes,Low
+REC01053,2022-12-22,Western,Kabale,Tropical Rainforest,4942.0,328.46,2037.2,840,23,Yes,High
+REC01054,2021-05-17,Central,Mukono,Mangrove,1506.69,6.25,804.7,774,8,No,Low
+REC01055,2024-11-26,Central,Mukono,Tropical Rainforest,4052.4,29.66,1585.0,259,6,No,Low
+REC01056,2024-06-08,Western,Kabale,Montane Forest,418.52,17.06,1006.5,502,8,No,Low
+REC01057,2024-06-17,Eastern,Mbale,Tropical Rainforest,1663.79,45.44,1715.7,765,19,Yes,High
+REC01058,2021-05-05,Western,Mbarara,Dry Forest,6013.92,254.49,2081.6,581,1,No,Medium
+REC01059,2021-08-22,Western,Kabale,Mangrove,3409.2,199.88,2247.1,437,21,No,Medium
+REC01060,2023-09-24,Western,Kabale,Plantation,7240.31,539.7,1336.9,237,1,No,High
+REC01061,2023-09-22,Eastern,Mbale,Dry Forest,6023.69,285.96,2064.2,125,14,No,Medium
+REC01062,2024-02-26,Western,Kabale,Woodland,3429.51,85.4,881.7,399,12,No,Low
+REC01063,2023-07-07,Central,Wakiso,Dry Forest,6042.88,427.98,2499.9,159,22,No,High
+REC01064,2023-06-02,Central,Wakiso,Dry Forest,1841.61,121.09,1644.2,111,0,No,Medium
+REC01065,2022-05-09,Central,Wakiso,Montane Forest,1644.0,24.24,877.2,235,21,Yes,High
+REC01066,2021-02-24,Central,Mukono,Woodland,428.61,15.01,2428.4,337,1,No,Low
+REC01067,2021-06-21,Central,Mukono,Dry Forest,6677.79,165.92,1244.9,804,12,Yes,High
+REC01068,2023-12-21,Central,Wakiso,Plantation,5613.84,251.38,2396.5,371,3,Yes,Medium
+REC01069,2023-10-08,Eastern,Mbale,Plantation,2999.84,73.7,1045.5,807,4,Yes,Low
+REC01070,2021-06-23,Northern,Gulu,Tropical Rainforest,3080.59,123.31,1475.4,52,5,Yes,Medium
+REC01071,2022-02-20,Central,Wakiso,Woodland,1531.89,70.44,1369.6,716,16,No,Low
+REC01072,2023-01-26,Northern,Gulu,Dry Forest,4761.2,83.08,1725.7,620,11,Yes,High
+REC01073,2024-02-12,Northern,Gulu,Tropical Rainforest,4353.45,189.6,2384.6,82,6,Yes,Medium
+REC01074,2024-04-03,Central,Mukono,Woodland,3405.97,232.62,2194.2,487,0,Yes,Medium
+REC01075,2023-09-21,Western,Mbarara,Montane Forest,5199.88,48.57,2130.3,79,11,No,Low
+REC01076,2022-01-04,Central,Mukono,Dry Forest,4428.67,309.0,1230.3,634,22,No,High
+REC01077,2024-11-23,Western,Kabale,Dry Forest,5192.63,16.27,2001.6,431,0,No,Low
+REC01078,2022-11-28,Northern,Gulu,Woodland,2682.65,6.41,1132.8,165,2,Yes,Low
+REC01079,2022-12-05,Western,Mbarara,Montane Forest,884.93,59.62,2283.1,600,5,No,Low
+REC01080,2023-04-17,Northern,Gulu,Woodland,6101.13,484.48,1600.1,112,18,Yes,High
+REC01081,2024-06-05,Central,Wakiso,Montane Forest,5937.66,71.71,1530.1,873,1,Yes,Low
+REC01082,2024-07-03,Western,Kabale,Plantation,6319.46,221.29,1355.5,200,15,Yes,High
+REC01083,2024-05-10,Northern,Gulu,Plantation,3642.01,287.85,772.3,433,9,No,Medium
+REC01084,2022-05-27,Central,Wakiso,Plantation,8160.75,535.91,726.7,483,20,No,High
+REC01085,2022-09-21,Central,Mukono,Plantation,8438.57,635.93,776.6,785,13,Yes,High
+REC01086,2024-04-04,Western,Kabale,Montane Forest,8501.9,509.52,1345.7,686,16,No,High
+REC01087,2024-04-09,Western,Kabale,Plantation,9366.67,7.95,1798.8,380,8,Yes,Low
+REC01088,2023-10-06,Eastern,Mbale,Montane Forest,4854.88,353.36,2201.7,371,25,No,High
+REC01089,2024-01-24,Central,Wakiso,Dry Forest,5489.85,101.09,881.8,173,6,No,Medium
+REC01090,2024-12-18,Western,Kabale,Tropical Rainforest,7866.08,350.71,1807.2,459,2,Yes,High
+REC01091,2022-07-09,Western,Kabale,Mangrove,6033.4,11.67,721.6,603,14,No,Low
+REC01092,2021-02-07,Northern,Gulu,Dry Forest,3940.98,7.8,1949.3,875,10,No,Low
+REC01093,2021-06-12,Central,Mukono,Tropical Rainforest,7950.81,431.61,1563.3,344,25,No,High
+REC01094,2022-12-01,Western,Mbarara,Tropical Rainforest,8591.65,685.68,852.3,838,11,No,High
+REC01095,2022-09-12,Central,Wakiso,Woodland,1947.51,98.68,2185.0,155,8,No,Low
+REC01096,2021-01-01,Central,Wakiso,Mangrove,7108.97,364.35,1292.4,718,21,Yes,High
+REC01097,2021-04-25,Eastern,Mbale,Woodland,2287.12,113.22,1829.0,343,1,No,Medium
+REC01098,2021-07-05,Central,Wakiso,Plantation,7229.74,100.55,2319.7,344,5,No,Medium
+REC01099,2022-05-17,Western,Mbarara,Dry Forest,546.04,24.65,827.2,363,14,Yes,High
+REC01100,2021-07-30,Northern,Gulu,Woodland,6954.67,517.48,1467.5,500,8,No,High
+REC01101,2024-07-25,Western,Kabale,Dry Forest,5402.85,173.52,1902.2,342,9,No,Medium
+REC01102,2021-08-12,Central,Mukono,Tropical Rainforest,1464.42,83.07,2216.9,605,3,Yes,Low
+REC01103,2024-11-25,Western,Kabale,Tropical Rainforest,897.94,15.6,2401.6,475,21,Yes,High
+REC01104,2022-06-20,Northern,Gulu,Woodland,5611.84,276.33,707.9,186,0,Yes,Medium
+REC01105,2021-01-26,Eastern,Mbale,Tropical Rainforest,1777.13,135.86,743.4,116,15,No,Medium
+REC01106,2023-05-09,Central,Mukono,Tropical Rainforest,3059.15,178.46,1399.9,156,14,Yes,High
+REC01107,2024-05-23,Eastern,Mbale,Mangrove,5119.3,265.33,1663.3,897,18,Yes,High
+REC01108,2021-04-03,Western,Kabale,Tropical Rainforest,2415.92,136.83,853.7,162,18,No,Medium
+REC01109,2023-02-03,Central,Wakiso,Mangrove,6877.52,164.45,2291.0,98,0,Yes,Medium
+REC01110,2022-12-23,Eastern,Mbale,Montane Forest,3936.36,17.52,1074.1,474,11,Yes,High
+REC01111,2021-07-18,Central,Wakiso,Woodland,9544.81,246.72,1977.4,323,3,No,Medium
+REC01112,2021-01-26,Western,Mbarara,Plantation,6354.7,146.54,931.8,733,5,Yes,Medium
+REC01113,2023-04-13,Northern,Gulu,Plantation,2362.71,79.66,1506.3,53,25,No,Low
+REC01114,2021-05-24,Central,Wakiso,Tropical Rainforest,407.52,0.5,2388.9,69,7,Yes,Low
+REC01115,2024-11-06,Northern,Gulu,Mangrove,1600.68,64.89,702.0,475,23,No,Low
+REC01116,2024-02-29,Western,Mbarara,Woodland,2484.37,55.59,2018.0,85,24,Yes,High
+REC01117,2021-04-04,Eastern,Mbale,Montane Forest,2814.81,112.63,1275.2,273,7,No,Medium
+REC01118,2022-03-03,Central,Wakiso,Tropical Rainforest,9378.43,569.34,2251.1,413,7,No,High
+REC01119,2021-06-11,Central,Mukono,Dry Forest,394.48,23.15,1300.8,692,2,No,Low
+REC01120,2023-03-01,Eastern,Mbale,Montane Forest,2423.24,16.7,2146.7,395,1,Yes,Low
+REC01121,2021-11-29,Central,Wakiso,Tropical Rainforest,617.31,43.67,2025.8,899,5,No,Low
+REC01122,2022-09-17,Central,Wakiso,Mangrove,8658.99,375.84,2153.3,140,0,No,High
+REC01123,2022-04-12,Western,Kabale,Dry Forest,9640.3,435.1,1168.1,686,12,No,High
+REC01124,2023-05-06,Eastern,Mbale,Dry Forest,3914.13,6.42,1139.0,605,12,No,Low
+REC01125,2021-12-16,Central,Mukono,Mangrove,7422.22,443.31,1640.1,827,20,No,High
+REC01126,2022-09-27,Central,Mukono,Dry Forest,3609.03,85.75,1309.4,341,6,No,Low
+REC01127,2024-01-16,Eastern,Mbale,Woodland,9689.52,307.18,2098.7,693,20,Yes,High
+REC01128,2024-06-26,Western,Mbarara,Mangrove,6873.23,255.49,2004.0,709,19,Yes,High
+REC01129,2022-07-01,Central,Mukono,Tropical Rainforest,2413.52,123.11,1687.9,719,25,Yes,High
+REC01130,2023-10-16,Western,Kabale,Woodland,1575.37,35.8,1792.9,574,16,Yes,High
+REC01131,2024-11-29,Eastern,Mbale,Plantation,9212.4,470.08,936.5,266,22,Yes,High
+REC01132,2022-02-12,Eastern,Mbale,Plantation,4841.97,298.07,2022.5,413,0,No,Medium
+REC01133,2022-05-10,Central,Mukono,Dry Forest,668.69,0.37,2021.2,465,1,Yes,Low
+REC01134,2023-09-01,Western,Mbarara,Mangrove,2661.93,200.64,1898.8,276,9,Yes,Medium
+REC01135,2022-05-10,Central,Mukono,Mangrove,2686.37,32.7,1017.3,363,0,Yes,Low
+REC01136,2024-05-21,Northern,Gulu,Dry Forest,4835.28,120.06,1701.3,90,14,Yes,High
+REC01137,2021-08-01,Central,Mukono,Tropical Rainforest,7520.92,68.72,935.1,737,13,Yes,High
+REC01138,2022-08-25,Central,Mukono,Montane Forest,7736.02,479.83,1593.8,691,10,Yes,High
+REC01139,2024-10-19,Central,Mukono,Tropical Rainforest,654.8,47.13,1259.5,230,25,No,Low
+REC01140,2023-03-08,Northern,Gulu,Mangrove,897.63,11.62,1533.2,376,18,Yes,High
+REC01141,2022-10-20,Central,Mukono,Dry Forest,255.23,16.89,1249.3,313,0,No,Low
+REC01142,2022-08-07,Eastern,Mbale,Plantation,6823.79,128.42,1734.2,674,4,No,Medium
+REC01143,2024-05-21,Northern,Gulu,Dry Forest,9650.9,384.24,1030.6,257,1,No,High
+REC01144,2021-10-06,Central,Mukono,Plantation,8295.94,601.48,2119.1,49,22,Yes,High
+REC01145,2023-06-16,Eastern,Mbale,Tropical Rainforest,7161.1,88.33,1004.2,524,18,Yes,High
+REC01146,2023-09-11,Central,Wakiso,Mangrove,5951.39,326.42,2170.3,662,21,No,High
+REC01147,2023-05-27,Northern,Gulu,Dry Forest,3659.64,194.26,2396.3,268,23,Yes,High
+REC01148,2021-02-10,Central,Wakiso,Dry Forest,9439.1,226.84,1967.5,247,25,Yes,High
+REC01149,2022-04-22,Western,Mbarara,Tropical Rainforest,7219.78,310.83,748.1,453,4,Yes,High
+REC01150,2021-01-06,Central,Mukono,Mangrove,9009.08,376.9,1249.2,758,15,Yes,High
+REC01151,2021-12-10,Central,Mukono,Woodland,3463.34,240.23,836.3,256,0,Yes,Medium
+REC01152,2024-03-20,Central,Wakiso,Tropical Rainforest,7123.61,379.85,2036.0,406,2,Yes,High
+REC01153,2022-10-04,Eastern,Mbale,Woodland,8903.97,363.27,1114.7,551,8,Yes,High
+REC01154,2021-04-03,Northern,Gulu,Mangrove,2935.63,224.83,1882.8,392,20,No,Medium
+REC01155,2024-05-12,Central,Mukono,Montane Forest,7353.34,97.96,1687.8,155,0,Yes,Low
+REC01156,2021-11-05,Western,Mbarara,Mangrove,1593.67,122.61,2089.9,328,21,Yes,High
+REC01157,2024-07-01,Central,Wakiso,Mangrove,6531.57,283.19,1598.2,413,25,No,Medium
+REC01158,2023-09-10,Central,Mukono,Tropical Rainforest,2352.79,64.14,1533.0,171,9,Yes,Low
+REC01159,2021-07-06,Central,Wakiso,Mangrove,3721.51,257.27,2266.4,444,7,No,Medium
+REC01160,2023-02-05,Central,Wakiso,Dry Forest,5619.14,36.43,1002.8,120,5,Yes,Low
+REC01161,2024-09-03,Central,Mukono,Dry Forest,7734.97,566.07,825.9,678,17,Yes,High
+REC01162,2021-01-24,Central,Wakiso,Plantation,6101.18,12.72,1598.2,399,6,No,Low
+REC01163,2023-08-25,Northern,Gulu,Dry Forest,6800.9,298.72,1384.5,92,15,No,Medium
+REC01164,2022-12-16,Western,Kabale,Dry Forest,1617.53,29.26,1071.1,267,1,No,Low
+REC01165,2022-10-31,Western,Kabale,Mangrove,4615.28,331.96,2250.8,425,5,No,High
+REC01166,2022-12-24,Eastern,Mbale,Tropical Rainforest,5689.99,240.36,990.0,180,23,No,Medium
+REC01167,2022-10-06,Western,Kabale,Dry Forest,198.37,6.31,1240.3,801,0,No,Low
+REC01168,2021-06-21,Central,Mukono,Plantation,6391.2,218.92,1555.0,480,15,Yes,High
+REC01169,2024-11-12,Western,Mbarara,Dry Forest,2121.3,72.5,1425.3,525,18,Yes,High
+REC01170,2024-11-01,Eastern,Mbale,Dry Forest,4431.78,264.47,1623.2,233,0,No,Medium
+REC01171,2022-09-29,Northern,Gulu,Woodland,4515.85,122.4,995.4,40,5,Yes,Medium
+REC01172,2023-04-05,Western,Kabale,Montane Forest,4736.92,355.43,1242.7,497,11,No,High
+REC01173,2023-08-30,Western,Mbarara,Plantation,6874.72,521.07,1776.8,506,10,Yes,High
+REC01174,2024-03-10,Central,Wakiso,Woodland,5094.2,278.56,1843.9,675,20,Yes,High
+REC01175,2024-10-30,Western,Kabale,Dry Forest,9213.36,654.52,765.7,671,5,No,High
+REC01176,2023-03-26,Northern,Gulu,Tropical Rainforest,4922.73,115.71,1721.1,778,16,No,Medium
+REC01177,2023-10-10,Western,Kabale,Dry Forest,4044.05,273.84,955.1,306,2,Yes,Medium
+REC01178,2022-05-11,Central,Wakiso,Montane Forest,4022.46,222.89,1632.0,486,19,No,Medium
+REC01179,2022-04-12,Central,Wakiso,Mangrove,3965.14,35.31,1624.8,684,14,No,Low
+REC01180,2022-06-05,Eastern,Mbale,Mangrove,3834.23,281.38,1984.3,263,14,No,Medium
+REC01181,2023-11-25,Central,Mukono,Plantation,6499.8,393.09,1814.7,481,5,Yes,High
+REC01182,2022-12-11,Central,Wakiso,Tropical Rainforest,1130.95,33.44,1474.2,475,10,Yes,Low
+REC01183,2024-02-29,Western,Kabale,Woodland,2803.5,160.1,2070.7,737,20,No,Medium
+REC01184,2024-06-21,Western,Kabale,Montane Forest,4840.65,101.33,1683.8,302,1,Yes,Medium
+REC01185,2024-12-18,Central,Wakiso,Woodland,8270.73,141.08,1638.1,172,5,Yes,Medium
+REC01186,2023-07-25,Central,Mukono,Montane Forest,8521.5,209.78,814.0,297,6,Yes,Medium
+REC01187,2023-01-08,Eastern,Mbale,Woodland,5720.93,236.9,1597.8,435,2,No,Medium
+REC01188,2022-11-14,Eastern,Mbale,Woodland,6651.51,151.99,1993.1,707,14,No,Medium
+REC01189,2023-07-03,Western,Mbarara,Montane Forest,7064.01,69.79,1028.8,348,3,Yes,Low
+REC01190,2023-06-09,Central,Mukono,Tropical Rainforest,6184.06,452.77,2195.7,305,24,No,High
+REC01191,2023-12-01,Western,Kabale,Montane Forest,845.91,58.73,2360.4,669,5,Yes,Low
+REC01192,2021-07-20,Northern,Gulu,Dry Forest,6276.73,448.87,1864.6,84,2,Yes,High
+REC01193,2022-12-26,Eastern,Mbale,Woodland,279.61,8.51,901.9,895,23,No,Low
+REC01194,2024-02-12,Central,Mukono,Mangrove,1529.83,102.1,752.2,77,0,Yes,Medium
+REC01195,2021-01-10,Central,Mukono,Woodland,7945.9,116.65,2357.8,70,16,No,Medium
+REC01196,2023-10-30,Central,Wakiso,Montane Forest,519.29,1.75,2455.9,476,1,No,Low
+REC01197,2022-11-23,Western,Mbarara,Dry Forest,7838.99,72.12,1319.3,231,10,No,Low
+REC01198,2022-01-02,Western,Mbarara,Dry Forest,7811.11,488.41,1874.1,47,15,No,High
+REC01199,2021-12-20,Western,Kabale,Woodland,3340.46,246.3,1401.2,569,25,No,Medium
+REC01200,2021-08-16,Eastern,Mbale,Dry Forest,169.86,8.06,2470.3,717,16,Yes,High
+REC01201,2024-03-27,Central,Mukono,Montane Forest,2870.28,192.91,1297.8,787,10,No,Medium
+REC01202,2023-05-18,Eastern,Mbale,Mangrove,9212.07,527.45,1827.2,717,1,Yes,High
+REC01203,2022-07-13,Northern,Gulu,Dry Forest,3100.37,203.67,1066.7,122,10,Yes,Medium
+REC01204,2023-02-14,Central,Wakiso,Woodland,8582.1,398.17,1760.5,420,0,No,High
+REC01205,2022-11-05,Central,Wakiso,Woodland,5627.46,395.65,832.4,185,3,Yes,High
+REC01206,2021-06-04,Central,Wakiso,Plantation,9156.07,579.8,2395.5,687,11,No,High
+REC01207,2024-05-02,Central,Wakiso,Dry Forest,4677.24,350.53,1447.5,409,10,Yes,High
+REC01208,2022-09-27,Eastern,Mbale,Dry Forest,9473.96,586.11,1005.7,115,14,Yes,High
+REC01209,2023-11-12,Western,Mbarara,Woodland,4254.99,15.38,1636.5,360,3,No,Low
+REC01210,2023-10-02,Eastern,Mbale,Tropical Rainforest,2575.84,108.76,1769.3,763,25,No,Medium
+REC01211,2024-06-08,Western,Mbarara,Tropical Rainforest,3964.99,18.05,2197.8,438,13,Yes,High
+REC01212,2024-10-19,Western,Kabale,Tropical Rainforest,941.42,62.1,748.0,857,13,No,Low
+REC01213,2021-09-17,Central,Wakiso,Mangrove,7923.31,470.13,824.1,86,7,Yes,High
+REC01214,2023-02-03,Western,Mbarara,Montane Forest,9114.19,563.34,1401.1,722,25,No,High
+REC01215,2023-11-22,Western,Kabale,Montane Forest,6769.59,437.46,1440.2,330,2,No,High
+REC01216,2021-06-06,Eastern,Mbale,Montane Forest,7970.51,259.73,1029.4,295,1,No,Medium
+REC01217,2024-02-04,Central,Wakiso,Plantation,6836.42,15.44,2210.3,892,21,No,Low
+REC01218,2022-07-27,Central,Mukono,Montane Forest,3573.43,45.26,962.3,662,7,No,Low
+REC01219,2021-08-09,Western,Kabale,Woodland,5314.79,278.2,1926.7,489,20,Yes,High
+REC01220,2022-07-07,Western,Kabale,Dry Forest,5680.9,79.02,1915.1,80,21,No,Low
+REC01221,2024-09-20,Eastern,Mbale,Plantation,4942.05,70.52,1608.2,829,14,No,Low
+REC01222,2024-09-11,Northern,Gulu,Tropical Rainforest,1743.09,109.02,2321.9,402,24,No,Medium
+REC01223,2024-07-01,Northern,Gulu,Plantation,8990.52,280.75,1889.2,294,8,No,Medium
+REC01224,2021-05-07,Western,Kabale,Tropical Rainforest,5983.59,31.56,1264.6,356,13,No,Low
+REC01225,2022-03-30,Central,Wakiso,Mangrove,7436.27,527.94,945.8,570,22,No,High
+REC01226,2023-05-26,Central,Wakiso,Montane Forest,2691.13,107.12,1468.6,456,9,No,Medium
+REC01227,2023-10-16,Central,Wakiso,Montane Forest,9734.21,631.51,1408.3,585,3,No,High
+REC01228,2022-02-24,Northern,Gulu,Montane Forest,4446.71,54.92,869.6,271,20,No,Low
+REC01229,2024-12-15,Central,Wakiso,Woodland,8331.28,188.33,1280.2,30,23,No,Medium
+REC01230,2024-01-26,Northern,Gulu,Dry Forest,7018.18,509.34,2401.3,633,11,No,High
+REC01231,2023-05-26,Central,Wakiso,Dry Forest,3529.31,20.89,1768.7,333,5,No,Low
+REC01232,2022-07-29,Western,Mbarara,Montane Forest,1673.14,44.35,1687.0,444,15,No,Low
+REC01233,2023-07-18,Central,Mukono,Woodland,2395.59,45.07,1378.6,525,9,No,Low
+REC01234,2022-09-28,Northern,Gulu,Woodland,2630.41,72.48,741.2,292,2,Yes,Low
+REC01235,2022-06-24,Western,Kabale,Mangrove,9536.67,612.33,1196.1,831,14,No,High
+REC01236,2024-10-06,Central,Wakiso,Dry Forest,2199.74,29.25,1822.4,487,5,No,Low
+REC01237,2022-08-26,Northern,Gulu,Tropical Rainforest,1058.46,77.61,1948.1,686,5,Yes,Low
+REC01238,2024-05-07,Northern,Gulu,Dry Forest,3453.74,161.93,2360.1,631,7,No,Medium
+REC01239,2024-08-31,Central,Mukono,Montane Forest,8389.81,0.28,1982.0,761,4,Yes,Low
+REC01240,2022-09-29,Western,Mbarara,Mangrove,8566.0,393.84,1867.1,595,4,No,High
+REC01241,2021-06-13,Eastern,Mbale,Plantation,4988.32,195.4,2081.1,186,16,Yes,High
+REC01242,2023-08-06,Central,Wakiso,Montane Forest,8482.52,321.71,2492.8,84,19,Yes,High
+REC01243,2021-01-09,Western,Mbarara,Mangrove,5269.39,213.51,1970.8,577,8,Yes,Medium
+REC01244,2024-01-21,Central,Mukono,Dry Forest,3452.11,88.29,2249.0,376,9,Yes,Low
+REC01245,2023-09-27,Western,Kabale,Dry Forest,1188.83,61.11,1328.8,450,19,No,Low
+REC01246,2021-07-18,Central,Mukono,Woodland,2032.25,140.14,1027.7,569,23,Yes,High
+REC01247,2023-08-24,Northern,Gulu,Tropical Rainforest,1407.28,87.06,870.6,657,11,Yes,High
+REC01248,2024-02-29,Central,Wakiso,Woodland,4349.56,293.6,2206.7,611,23,Yes,High
+REC01249,2024-06-07,Western,Kabale,Montane Forest,419.3,26.81,1473.4,661,5,No,Low
+REC01250,2022-04-06,Northern,Gulu,Woodland,3169.26,190.85,1175.2,233,5,No,Medium
+REC01251,2021-10-30,Eastern,Mbale,Dry Forest,936.37,1.59,1807.6,705,25,Yes,High
+REC01252,2021-04-28,Western,Mbarara,Montane Forest,7894.62,365.5,2112.5,598,3,No,High
+REC01253,2024-10-12,Central,Mukono,Dry Forest,9359.98,50.5,1508.2,323,22,Yes,High
+REC01254,2022-04-20,Eastern,Mbale,Woodland,9316.78,611.24,1774.7,73,3,Yes,High
+REC01255,2023-04-15,Central,Mukono,Dry Forest,9318.78,260.78,784.8,136,1,Yes,Medium
+REC01256,2024-12-31,Central,Mukono,Woodland,8018.24,87.21,2080.8,322,21,No,Low
+REC01257,2021-10-20,Central,Wakiso,Plantation,1915.06,16.72,923.4,877,11,Yes,High
+REC01258,2024-02-02,Central,Wakiso,Dry Forest,9050.31,195.4,2483.4,307,13,Yes,High
+REC01259,2023-08-31,Western,Kabale,Plantation,6218.06,68.08,1793.1,717,13,No,Low
+REC01260,2021-04-26,Eastern,Mbale,Dry Forest,9086.74,584.73,2273.4,812,19,No,High
+REC01261,2022-09-08,Western,Kabale,Plantation,2536.6,124.49,700.1,177,19,No,Medium
+REC01262,2024-04-29,Central,Wakiso,Woodland,2431.12,49.93,2019.6,742,0,Yes,Low
+REC01263,2022-07-22,Western,Kabale,Dry Forest,647.89,49.64,2341.3,93,25,No,Low
+REC01264,2021-02-08,Western,Kabale,Woodland,7033.64,372.84,1831.8,460,6,Yes,High
+REC01265,2024-05-06,Central,Wakiso,Plantation,4509.97,352.54,2272.2,277,17,No,High
+REC01266,2022-06-15,Eastern,Mbale,Plantation,9534.3,393.73,1076.4,282,15,No,High
+REC01267,2023-08-15,Central,Wakiso,Mangrove,378.41,18.75,1991.8,845,16,No,Low
+REC01268,2022-08-08,Western,Mbarara,Plantation,2701.32,201.94,2195.6,897,21,No,Medium
+REC01269,2023-01-12,Western,Kabale,Montane Forest,5120.82,143.51,2423.6,333,20,Yes,High
+REC01270,2021-08-01,Western,Mbarara,Tropical Rainforest,6004.04,12.28,1239.6,519,10,No,Low
+REC01271,2022-10-08,Western,Kabale,Plantation,5523.01,280.31,2348.5,688,4,No,Medium
+REC01272,2024-09-09,Central,Mukono,Dry Forest,6242.67,270.87,1668.1,557,20,No,Medium
+REC01273,2022-08-21,Western,Mbarara,Montane Forest,4662.43,270.86,2330.4,414,15,Yes,High
+REC01274,2021-07-16,Central,Mukono,Plantation,5483.04,263.47,1317.4,330,8,Yes,Medium
+REC01275,2021-02-22,Eastern,Mbale,Montane Forest,4415.72,117.34,1750.7,484,17,Yes,High
+REC01276,2022-06-05,Western,Mbarara,Plantation,1819.71,112.75,2349.7,417,6,No,Medium
+REC01277,2023-10-08,Northern,Gulu,Mangrove,5172.79,184.45,928.3,666,5,Yes,Medium
+REC01278,2022-06-28,Western,Kabale,Tropical Rainforest,3957.26,120.77,2452.6,524,8,Yes,Medium
+REC01279,2022-11-11,Western,Kabale,Plantation,6138.21,56.59,1626.9,748,0,No,Low
+REC01280,2024-05-22,Western,Mbarara,Montane Forest,4887.66,136.69,1553.0,803,5,No,Medium
+REC01281,2022-09-13,Eastern,Mbale,Montane Forest,8004.63,353.94,1756.5,217,20,No,High
+REC01282,2024-03-18,Northern,Gulu,Montane Forest,5536.12,128.9,1936.9,126,6,Yes,Medium
+REC01283,2021-09-01,Eastern,Mbale,Woodland,2235.09,45.81,1824.2,267,25,No,Low
+REC01284,2021-06-12,Central,Wakiso,Dry Forest,1136.69,25.79,1752.1,64,6,Yes,Low
+REC01285,2022-02-17,Western,Kabale,Plantation,5137.75,237.84,1191.2,855,19,No,Medium
+REC01286,2022-02-02,Western,Mbarara,Woodland,7367.57,237.76,2059.4,344,7,No,Medium
+REC01287,2024-08-29,Eastern,Mbale,Tropical Rainforest,9508.39,639.16,1998.3,697,3,Yes,High
+REC01288,2021-03-12,Western,Mbarara,Tropical Rainforest,509.62,16.91,700.4,32,13,No,Low
+REC01289,2021-03-15,Central,Mukono,Tropical Rainforest,5309.25,280.4,1518.5,821,3,Yes,Medium
+REC01290,2023-02-03,Central,Mukono,Tropical Rainforest,7131.79,383.4,1487.9,848,8,Yes,High
+REC01291,2023-03-16,Eastern,Mbale,Tropical Rainforest,2852.66,149.89,1673.2,599,11,Yes,High
+REC01292,2023-01-28,Northern,Gulu,Dry Forest,5777.91,137.9,1784.2,687,10,No,Medium
+REC01293,2023-06-15,Central,Wakiso,Tropical Rainforest,9109.96,297.81,1836.0,691,11,Yes,High
+REC01294,2023-11-04,Central,Wakiso,Montane Forest,6541.23,112.29,1442.3,128,0,Yes,Medium
+REC01295,2021-01-14,Western,Mbarara,Montane Forest,1484.93,37.16,1169.3,846,19,No,Low
+REC01296,2024-03-12,Northern,Gulu,Plantation,3261.27,34.29,1636.6,207,8,Yes,Low
+REC01297,2021-12-29,Western,Kabale,Mangrove,4718.45,265.83,1342.5,241,9,Yes,Medium
+REC01298,2021-09-15,Western,Kabale,Plantation,8407.19,134.05,2324.3,247,21,Yes,High
+REC01299,2021-12-15,Northern,Gulu,Woodland,9915.6,491.15,1859.5,833,16,No,High
+REC01300,2021-09-25,Western,Kabale,Woodland,5004.11,299.76,894.0,787,5,Yes,Medium
+REC01301,2023-05-31,Central,Wakiso,Woodland,9685.54,160.76,935.4,846,7,No,Medium
+REC01302,2022-10-29,Western,Mbarara,Tropical Rainforest,3241.96,102.08,1517.8,379,2,Yes,Medium
+REC01303,2023-09-28,Central,Wakiso,Montane Forest,6893.55,50.78,992.2,553,21,No,Low
+REC01304,2021-03-01,Central,Mukono,Plantation,420.52,27.7,1504.1,227,0,Yes,Low
+REC01305,2022-09-22,Western,Mbarara,Montane Forest,5152.23,362.1,1482.2,263,25,No,High
+REC01306,2022-09-28,Eastern,Mbale,Mangrove,4408.31,118.63,2150.2,198,24,No,Medium
+REC01307,2024-03-19,Eastern,Mbale,Plantation,4722.99,354.37,2356.1,258,17,Yes,High
+REC01308,2022-10-16,Western,Mbarara,Mangrove,4065.72,12.54,890.5,426,16,No,Low
+REC01309,2023-11-05,Central,Mukono,Tropical Rainforest,2211.79,57.92,1272.4,478,21,No,Low
+REC01310,2022-10-25,Central,Mukono,Woodland,6187.85,288.26,773.6,802,19,No,Medium
+REC01311,2021-05-17,Western,Kabale,Mangrove,5560.73,117.92,936.8,789,24,No,Medium
+REC01312,2024-05-27,Northern,Gulu,Tropical Rainforest,705.37,38.07,1171.2,376,20,Yes,High
+REC01313,2022-02-04,Central,Wakiso,Montane Forest,5890.19,352.87,2295.3,81,16,No,High
+REC01314,2022-08-11,Central,Mukono,Dry Forest,4551.32,226.08,1608.7,223,18,Yes,High
+REC01315,2022-06-25,Northern,Gulu,Tropical Rainforest,7924.41,139.57,705.6,81,4,Yes,Medium
+REC01316,2021-03-04,Northern,Gulu,Woodland,9563.71,644.6,842.0,171,6,Yes,High
+REC01317,2024-09-02,Western,Mbarara,Plantation,8175.55,607.25,2082.4,618,25,No,High
+REC01318,2022-05-04,Northern,Gulu,Plantation,1224.88,9.98,2242.8,805,8,Yes,Low
+REC01319,2023-03-18,Northern,Gulu,Montane Forest,1807.39,11.19,771.9,107,22,Yes,High
+REC01320,2024-02-21,Eastern,Mbale,Woodland,3721.01,241.75,2488.7,119,1,No,Medium
+REC01321,2024-04-12,Central,Mukono,Tropical Rainforest,1395.23,30.68,1379.8,254,8,No,Low
+REC01322,2022-06-25,Western,Mbarara,Tropical Rainforest,6078.93,355.14,2037.5,853,2,No,High
+REC01323,2024-11-23,Eastern,Mbale,Mangrove,6856.51,206.84,1114.9,260,13,Yes,High
+REC01324,2022-09-11,Eastern,Mbale,Woodland,3054.17,185.81,1182.9,748,4,No,Medium
+REC01325,2023-10-02,Central,Mukono,Plantation,8256.67,424.45,2373.6,125,0,Yes,High
+REC01326,2023-06-01,Eastern,Mbale,Dry Forest,6094.93,170.91,2352.7,58,9,No,Medium
+REC01327,2021-08-12,Northern,Gulu,Dry Forest,2791.83,152.72,1833.7,252,8,No,Medium
+REC01328,2022-11-28,Western,Kabale,Tropical Rainforest,3002.03,146.25,2269.6,85,4,No,Medium
+REC01329,2022-11-06,Western,Kabale,Plantation,7268.79,554.6,1046.5,648,10,No,High
+REC01330,2022-03-07,Western,Mbarara,Woodland,3190.35,67.44,915.5,603,12,Yes,High
+REC01331,2023-06-02,Western,Mbarara,Montane Forest,4538.61,248.16,1559.1,824,9,Yes,Medium
+REC01332,2024-10-20,Northern,Gulu,Montane Forest,6846.95,539.33,1828.3,779,10,Yes,High
+REC01333,2023-04-07,Eastern,Mbale,Woodland,1277.53,12.48,863.7,565,12,No,Low
+REC01334,2023-07-16,Central,Wakiso,Mangrove,4840.72,86.66,1005.1,61,24,No,Low
+REC01335,2024-09-04,Central,Mukono,Dry Forest,1388.42,16.29,2312.3,541,24,No,Low
+REC01336,2023-04-03,Western,Kabale,Plantation,6938.56,285.02,801.5,155,18,No,Medium
+REC01337,2023-10-19,Central,Mukono,Dry Forest,4795.08,124.56,1563.6,657,15,Yes,High
+REC01338,2024-06-05,Northern,Gulu,Dry Forest,6807.92,408.65,1219.4,470,15,Yes,High
+REC01339,2023-01-05,Central,Mukono,Woodland,8714.76,415.01,705.2,423,7,No,High
+REC01340,2024-09-13,Central,Wakiso,Woodland,6962.54,1.77,745.5,702,17,No,Low
+REC01341,2024-02-09,Eastern,Mbale,Tropical Rainforest,4658.27,25.43,1556.8,815,22,Yes,High
+REC01342,2023-12-01,Western,Mbarara,Plantation,613.25,20.64,1324.6,175,22,Yes,High
+REC01343,2023-04-18,Western,Mbarara,Mangrove,1305.96,10.43,1570.6,420,8,Yes,Low
+REC01344,2024-11-14,Eastern,Mbale,Mangrove,1149.77,10.42,1515.9,503,16,No,Low
+REC01345,2023-04-04,Western,Kabale,Mangrove,7853.23,219.19,2378.4,798,9,Yes,Medium
+REC01346,2024-04-01,Central,Mukono,Montane Forest,7824.49,307.45,982.7,390,4,No,High
+REC01347,2024-09-01,Central,Mukono,Montane Forest,6356.23,84.42,2133.9,768,2,Yes,Low
+REC01348,2021-05-25,Central,Wakiso,Woodland,6966.59,56.76,990.8,779,14,Yes,High
+REC01349,2024-07-01,Western,Kabale,Plantation,5268.12,385.44,730.2,81,6,No,High
+REC01350,2024-04-22,Eastern,Mbale,Woodland,6936.36,128.55,2197.2,177,10,No,Medium
+REC01351,2022-01-22,Western,Kabale,Plantation,2451.18,131.73,2497.8,68,15,No,Medium
+REC01352,2023-08-21,Northern,Gulu,Montane Forest,2084.2,147.81,1072.8,452,13,Yes,High
+REC01353,2022-01-06,Northern,Gulu,Plantation,6210.71,146.28,2001.3,368,9,Yes,Medium
+REC01354,2021-02-14,Northern,Gulu,Tropical Rainforest,6179.78,416.63,1597.1,748,0,No,High
+REC01355,2023-02-15,Central,Mukono,Mangrove,2833.82,66.4,1987.7,338,24,Yes,High
+REC01356,2024-08-16,Central,Wakiso,Woodland,2770.79,18.92,1632.4,75,8,Yes,Low
+REC01357,2022-02-27,Northern,Gulu,Mangrove,7975.16,249.31,1683.4,339,25,No,Medium
+REC01358,2021-03-02,Eastern,Mbale,Plantation,6282.41,115.85,2367.8,890,6,Yes,Medium
+REC01359,2023-07-09,Eastern,Mbale,Montane Forest,6723.54,187.14,1605.8,320,15,Yes,High
+REC01360,2023-11-04,Northern,Gulu,Plantation,7809.02,132.4,1545.0,64,20,Yes,High
+REC01361,2024-09-21,Eastern,Mbale,Mangrove,6200.54,130.84,1840.1,171,22,Yes,High
+REC01362,2024-02-11,Central,Wakiso,Mangrove,963.52,29.26,1484.1,178,12,No,Low
+REC01363,2024-08-16,Eastern,Mbale,Plantation,5513.42,143.78,2391.2,486,5,No,Medium
+REC01364,2023-11-08,Central,Mukono,Plantation,7848.03,88.23,856.8,625,25,Yes,High
+REC01365,2023-11-13,Central,Mukono,Woodland,6390.48,458.54,1516.7,583,9,Yes,High
+REC01366,2021-10-14,Western,Kabale,Dry Forest,8078.94,65.44,2049.6,243,1,Yes,Low
+REC01367,2022-01-26,Central,Mukono,Woodland,3743.52,115.13,1870.6,753,8,No,Medium
+REC01368,2024-01-24,Western,Kabale,Woodland,5606.7,125.99,1267.5,705,0,Yes,Medium
+REC01369,2024-11-23,Central,Mukono,Dry Forest,1255.38,89.29,2484.4,441,16,Yes,High
+REC01370,2022-10-21,Northern,Gulu,Mangrove,5671.4,362.56,730.1,209,1,Yes,High
+REC01371,2023-09-22,Eastern,Mbale,Tropical Rainforest,3014.49,62.82,1561.0,592,10,Yes,Low
+REC01372,2021-03-03,Western,Mbarara,Mangrove,9969.54,550.72,2493.1,302,4,Yes,High
+REC01373,2021-12-19,Central,Mukono,Mangrove,6734.27,3.44,958.5,675,22,No,Low
+REC01374,2023-06-06,Western,Kabale,Montane Forest,3326.79,47.93,1396.8,217,25,No,Low
+REC01375,2021-01-26,Northern,Gulu,Dry Forest,1856.04,89.14,1062.9,401,12,Yes,High
+REC01376,2023-01-13,Western,Mbarara,Woodland,4426.49,44.41,2279.2,547,12,Yes,High
+REC01377,2023-11-21,Western,Kabale,Montane Forest,3445.54,253.84,756.9,571,15,No,Medium
+REC01378,2021-06-08,Central,Wakiso,Mangrove,1903.56,15.4,1596.0,353,25,No,Low
+REC01379,2021-08-09,Western,Kabale,Dry Forest,8070.36,621.43,1966.4,62,11,Yes,High
+REC01380,2021-07-19,Western,Kabale,Woodland,874.57,22.37,1949.9,415,21,No,Low
+REC01381,2024-04-04,Central,Wakiso,Woodland,7654.53,199.6,2341.1,360,0,Yes,Medium
+REC01382,2023-06-04,Western,Kabale,Woodland,6687.27,522.93,1947.1,865,24,Yes,High
+REC01383,2022-04-04,Western,Kabale,Plantation,1153.14,69.17,1397.8,782,3,No,Low
+REC01384,2022-12-23,Central,Wakiso,Dry Forest,5830.42,168.85,2190.9,838,6,No,Medium
+REC01385,2021-04-28,Eastern,Mbale,Montane Forest,5924.96,414.95,1273.0,569,14,Yes,High
+REC01386,2023-11-07,Eastern,Mbale,Woodland,5521.87,391.5,940.2,752,2,Yes,High
+REC01387,2023-06-27,Eastern,Mbale,Mangrove,9184.93,319.61,2456.2,156,7,Yes,High
+REC00708,2022-07-25,Central,Mukono,Dry Forest,6935.03,279.24,2339.7,427,11,Yes,High
+REC00707,2024-10-09,Central,Mukono,Woodland,9183.13,342.66,1224.0,500,11,Yes,High
+REC00250,2021-08-23,Eastern,Mbale,Plantation,1048.86,9.64,1330.3,432,1,Yes,Low
+REC01036,2021-12-19,Northern,Gulu,Mangrove,3159.93,120.69,840.4,567,10,No,Medium
+REC00375,2022-08-03,Western,Kabale,Mangrove,3366.29,8.33,1192.8,333,18,Yes,High
+REC01200,2021-08-16,Eastern,Mbale,Dry Forest,169.86,8.06,2470.3,717,16,Yes,High
+REC00317,2023-08-16,Central,Wakiso,Mangrove,9768.04,720.91,1028.1,619,11,Yes,High
+REC00145,2023-06-26,Central,Mukono,Plantation,248.99,15.45,1139.6,672,25,Yes,High
+REC00107,2024-10-04,Eastern,Mbale,Plantation,7515.42,275.58,962.1,290,17,No,Medium
+REC00388,2022-09-13,Central,Wakiso,Tropical Rainforest,7802.33,276.98,1739.4,163,16,No,Medium
+REC00821,2022-10-20,Western,Mbarara,Dry Forest,4622.99,248.4,1416.2,741,3,Yes,Medium
+REC00887,2021-03-09,Western,Mbarara,Dry Forest,135.18,1.99,1327.3,72,18,Yes,High
+REC00984,2022-12-07,Western,Kabale,Woodland,2231.07,155.29,1453.4,56,24,Yes,High
