@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Forest Observer</title>
+    
+    <!-- Importing modern fonts for that AI feel -->
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #0b1410; /* Deep forest night */
+            --container-bg: rgba(18, 38, 28, 0.7); /* Frosted glass green */
+            --text-main: #e0f2e9;
+            --accent-glow: #00ff66; /* Neon AI green */
+            --border-color: rgba(0, 255, 102, 0.2);
+            --input-bg: rgba(0, 0, 0, 0.4);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at center, #11281c 0%, var(--bg-color) 100%);
+            color: var(--text-main);
+            margin: 0;
+            padding: 40px 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 650px;
+            background: var(--container-bg);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0, 255, 102, 0.05);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--border-color);
+        }
+
+        h2 {
+            text-align: center;
+            font-family: 'Fira Code', monospace;
+            color: var(--accent-glow);
+            margin-top: 0;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 0 0 15px rgba(0, 255, 102, 0.3);
+        }
+
+        /* 2-Column Grid for desktop, 1-Column for mobile */
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .form-group.full-width {
+            grid-column: 1 / -1;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 13px;
+            color: #a8d5ba;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 12px;
+            background: var(--input-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+
+        /* Customize select dropdown styling */
+        select option {
+            background: var(--bg-color);
+            color: var(--text-main);
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: var(--accent-glow);
+            box-shadow: 0 0 15px rgba(0, 255, 102, 0.15);
+        }
+
+        button {
+            width: 100%;
+            padding: 16px;
+            margin-top: 30px;
+            background: transparent;
+            color: var(--accent-glow);
+            border: 1px solid var(--accent-glow);
+            border-radius: 8px;
+            font-family: 'Fira Code', monospace;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        button:hover {
+            background: var(--accent-glow);
+            color: #000;
+            box-shadow: 0 0 20px rgba(0, 255, 102, 0.4);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
+        /* Loading & Result Animations */
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 25px;
+            color: var(--accent-glow);
+            font-family: 'Fira Code', monospace;
+            font-size: 14px;
+        }
+
+        #result-container {
+            display: none;
+            margin-top: 25px;
+            padding: 20px;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.5);
+            border-left: 3px solid var(--accent-glow);
+            font-family: 'Fira Code', monospace;
+            font-size: 15px;
+            line-height: 1.5;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 8px;
+            height: 15px;
+            background-color: var(--accent-glow);
+            vertical-align: middle;
+            animation: blink 1s step-end infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (max-width: 600px) {
+            .form-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Forest AI Telemetry</h2>
+
+    <form id="observation-form">
+        <div class="form-grid">
+            <div class="form-group">
+                <label for="Observation_Date">Observation Date</label>
+                <input type="date" id="Observation_Date" name="Observation_Date" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Region">Region</label>
+                <select id="Region" name="Region" required>
+                    <option value="">Select Region</option>
+                    <option>Central</option>
+                    <option>Eastern</option>
+                    <option>Northern</option>
+                    <option>Western</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="District">District</label>
+                <input type="text" id="District" name="District" placeholder="e.g. Wakiso" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Forest_Type">Forest Type</label>
+                <select id="Forest_Type" name="Forest_Type" required>
+                    <option value="">Select Forest Type</option>
+                    <option>Tropical Rainforest</option>
+                    <option>Mangrove</option>
+                    <option>Woodland</option>
+                    <option>Plantation</option>
+                    <option>Montane Forest</option>
+                    <option>Other</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Forest_Area_ha">Forest Area (ha)</label>
+                <input type="number" id="Forest_Area_ha" name="Forest_Area_ha" step="0.01" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Tree_Cover_Loss_ha">Tree Cover Loss (ha)</label>
+                <input type="number" id="Tree_Cover_Loss_ha" name="Tree_Cover_Loss_ha" step="0.01" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Annual_Rainfall_mm">Annual Rainfall (mm)</label>
+                <input type="number" id="Annual_Rainfall_mm" name="Annual_Rainfall_mm" step="0.1" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Population_Density">Population (people/km²)</label>
+                <input type="number" id="Population_Density" name="Population_Density" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Fire_Incidents">Fire Incidents</label>
+                <input type="number" id="Fire_Incidents" name="Fire_Incidents" min="0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="Illegal_Logging">Illegal Logging</label>
+                <select id="Illegal_Logging" name="Illegal_Logging" required>
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+        </div>
+
+        <button type="submit" id="submit-btn">Run Analysis</button>
+    </form>
+
+    <div class="loading" id="loading">Initializing prediction model...</div>
+    
+    <div id="result-container">
+        <span id="result-text"></span><span class="cursor"></span>
+    </div>
+</div>
+
+<script>
+    // Handle form submission without reloading the page
+    document.getElementById('observation-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const form = e.target;
+        const btn = document.getElementById('submit-btn');
+        const loading = document.getElementById('loading');
+        const resultContainer = document.getElementById('result-container');
+        const resultText = document.getElementById('result-text');
+
+        // Convert form data to a JSON object
+        const formData = new FormData(form);
+        const data = Object.fromEntries(formData.entries());
+
+        // UI Prep: Disable button, show loading
+        btn.disabled = true;
+        btn.innerText = 'Processing...';
+        resultContainer.style.display = 'none';
+        loading.style.display = 'block';
+        resultText.innerHTML = '';
+
+        try {
+            // Send data to Flask backend
+            const response = await fetch('/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+
+            const resData = await response.json();
+
+            // Transition UI to show result
+            loading.style.display = 'none';
+            resultContainer.style.display = 'block';
+
+            // Trigger the typewriter animation
+            const outputString = `> AI Analysis Complete.\n> Deforestation Risk Assessment: ${resData.prediction}`;
+            typeWriter(outputString, resultText);
+
+        } catch (error) {
+            loading.style.display = 'none';
+            resultContainer.style.display = 'block';
+            resultContainer.style.borderLeftColor = '#ff4444';
+            resultText.innerHTML = `> Error connecting to model server.`;
+        } finally {
+            btn.disabled = false;
+            btn.innerText = 'Run Analysis';
+        }
+    });
+
+    // Typewriter effect function
+    function typeWriter(text, element, i = 0) {
+        if (i === 0) element.innerHTML = '';
+        
+        if (i < text.length) {
+            // Handle line breaks properly
+            if (text.charAt(i) === '\n') {
+                element.innerHTML += '<br>';
+            } else {
+                element.innerHTML += text.charAt(i);
+            }
+            
+            // Randomize typing speed slightly for realism
+            const speed = Math.random() * 30 + 20; 
+            setTimeout(() => typeWriter(text, element, i + 1), speed);
+        }
+    }
+</script>
+
+</body>
+</html>

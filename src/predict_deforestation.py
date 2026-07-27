@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
 import joblib
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def predict_deforestation_risk(Observation_Date,Region,District,Forest_Type,Forest_Area_ha,Tree_Cover_Loss_ha,Annual_Rainfall_mm,Population_Density,Fire_Incidents,Illegal_Logging):
     data = {
@@ -68,14 +71,24 @@ def predict_deforestation_risk(Observation_Date,Region,District,Forest_Type,Fore
 
     df = df.reindex(columns=expected_columns, fill_value=0)
 
-    model = joblib.load("random_forest_model.pkl")
+    model_path = os.path.join(BASE_DIR, "random_forest_model.pkl")
+    model = joblib.load(model_path)
 
     prediction = model.predict(df)
 
-    encoder = joblib.load('label_encoder.pkl')
-    answer = encoder.inverse_transform(prediction)
+    # encoder_path = os.path.join(BASE_DIR, 'label_encoder.pkl')
+    # encoder = joblib.load(encoder_path)
 
-    return answer[0]
+    # answer = encoder.inverse_transform(prediction)
+
+    if prediction[0] == 0:
+        answer = "Low"
+    elif prediction[0] == 1:
+        answer = "Medium"
+    else:
+        answer = "High"
+
+    return answer
 
 
 # data = {
@@ -91,7 +104,7 @@ def predict_deforestation_risk(Observation_Date,Region,District,Forest_Type,Fore
 #     "Illegal_Logging": "Yes"
 # }
 
-value = predict_deforestation_risk("2024-06-27", "Central", "Wakiso", "Mangrove", 4179.46, 235.27, 1358.1, 657, 16, "Yes")
+# value = predict_deforestation_risk("2024-06-27", "Central", "Wakiso", "Mangrove", 4179.46, 235.27, 1358.1, 657, 16, "Yes")
+value = predict_deforestation_risk("2021-03-01", "Western", "Kabale", "Woodland",4135.47,288.34,1678.5,375,3,"No")
 
-
-print(f"Predicted Risk: {value} \nThanks!!!!!")
+print(f"Predicted Risk: {value} \nThanks!!!!!" )
