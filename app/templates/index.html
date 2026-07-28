@@ -9,6 +9,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;600&display=swap" rel="stylesheet">
     
     <style>
+        #sample-btn:hover {
+            background: rgba(0, 255, 102, 0.1);
+            border-color: var(--accent-glow);
+            color: var(--accent-glow);
+        }
         :root {
             --bg-color: #0b1410; /* Deep forest night */
             --container-bg: rgba(18, 38, 28, 0.7); /* Frosted glass green */
@@ -245,6 +250,13 @@
         </div>
 
         <button type="submit" id="submit-btn">Run Analysis</button>
+        <!-- Add this right after your submit button -->
+<div style="display: flex; gap: 10px; margin-top: 30px;">
+    <button type="submit" id="submit-btn" style="flex: 1;">Run Analysis</button>
+    <button type="button" id="sample-btn" style="flex: 0.5; background: transparent; border: 1px solid rgba(255,255,255,0.2); color: #a8d5ba; padding: 16px; border-radius: 8px; font-size: 14px; cursor: pointer; transition: all 0.3s ease; text-transform: uppercase; letter-spacing: 1px;">
+        ⚡ Sample
+    </button>
+</div>
     </form>
 
     <div class="loading" id="loading">Initializing prediction model...</div>
@@ -304,6 +316,8 @@
             btn.innerText = 'Run Analysis';
         }
     });
+    // Add this after your form submit event listener
+    document.getElementById('sample-btn').addEventListener('click', loadSampleData);
 
     // Typewriter effect function
     function typeWriter(text, element, i = 0) {
@@ -322,6 +336,101 @@
             setTimeout(() => typeWriter(text, element, i + 1), speed);
         }
     }
+    // Load sample data for quick demos
+function loadSampleData() {
+    const samples = [
+        // Sample 1: High Risk (Mangrove, Central)
+        {
+            'Observation_Date': '2024-06-27',
+            'Region': 'Central',
+            'District': 'Wakiso',
+            'Forest_Type': 'Mangrove',
+            'Forest_Area_ha': '4179.46',
+            'Tree_Cover_Loss_ha': '235.27',
+            'Annual_Rainfall_mm': '1358.1',
+            'Population_Density': '657',
+            'Fire_Incidents': '16',
+            'Illegal_Logging': 'Yes'
+        },
+        // Sample 2: Medium Risk (Woodland, Western)
+        {
+            'Observation_Date': '2021-03-01',
+            'Region': 'Western',
+            'District': 'Kabale',
+            'Forest_Type': 'Woodland',
+            'Forest_Area_ha': '4135.47',
+            'Tree_Cover_Loss_ha': '288.34',
+            'Annual_Rainfall_mm': '1678.5',
+            'Population_Density': '375',
+            'Fire_Incidents': '3',
+            'Illegal_Logging': 'No'
+        },
+        // Sample 3: Low Risk (Plantation, Northern)
+        {
+            'Observation_Date': '2021-12-19',
+            'Region': 'Northern',
+            'District': 'Gulu',
+            'Forest_Type': 'Plantation',
+            'Forest_Area_ha': '1340.77',
+            'Tree_Cover_Loss_ha': '87.71',
+            'Annual_Rainfall_mm': '2265.2',
+            'Population_Density': '468',
+            'Fire_Incidents': '1',
+            'Illegal_Logging': 'No'
+        },
+        // Sample 4: High Risk (Dry Forest, Eastern)
+        {
+            'Observation_Date': '2023-07-07',
+            'Region': 'Eastern',
+            'District': 'Mbale',
+            'Forest_Type': 'Dry Forest',
+            'Forest_Area_ha': '9793.89',
+            'Tree_Cover_Loss_ha': '575.77',
+            'Annual_Rainfall_mm': '1353.5',
+            'Population_Density': '647',
+            'Fire_Incidents': '6',
+            'Illegal_Logging': 'No'
+        }
+    ];
+
+    // Randomly pick a sample
+    const randomIndex = Math.floor(Math.random() * samples.length);
+    const sample = samples[randomIndex];
+
+    // Fill the form fields
+    Object.entries(sample).forEach(([key, value]) => {
+        const field = document.getElementById(key);
+        if (field) {
+            field.value = value;
+            // Trigger a change event for any listeners
+            field.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+    });
+
+    // Highlight the fields briefly to show what was loaded
+    document.querySelectorAll('input, select').forEach(el => {
+        el.style.transition = 'box-shadow 0.3s ease';
+        el.style.boxShadow = '0 0 20px rgba(0, 255, 102, 0.3)';
+        setTimeout(() => {
+            el.style.boxShadow = 'none';
+        }, 1000);
+    });
+
+    // Update button text to show which sample was loaded
+    const riskLabels = ['High', 'Medium', 'Low'];
+    const sampleBtn = document.getElementById('sample-btn');
+    const sampleType = sample['Forest_Area_ha'] > 8000 ? 'High' : 
+                       sample['Forest_Area_ha'] > 4000 ? 'Medium' : 'Low';
+    sampleBtn.innerHTML = `⚡ Sample ${sampleType} Risk`;
+    sampleBtn.style.borderColor = sampleType === 'High' ? '#f87171' : 
+                                  sampleType === 'Medium' ? '#facc15' : '#4ade80';
+    
+    // Reset after 3 seconds
+    setTimeout(() => {
+        sampleBtn.innerHTML = '⚡ Sample';
+        sampleBtn.style.borderColor = 'rgba(255,255,255,0.2)';
+    }, 3000);
+}
 </script>
 
 </body>
