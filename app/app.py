@@ -136,6 +136,7 @@ def predict():
 
     # Return the result as JSON so the page doesn't reload
     return jsonify({"prediction": prediction})
+
 @app.route('/api/test')
 def test_api():
     """Simple test endpoint"""

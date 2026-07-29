@@ -240,11 +240,6 @@
     <form id="observation-form">
         <div class="form-grid">
             <div class="form-group">
-                <label for="Observation_Date">Observation Date</label>
-                <input type="date" id="Observation_Date" name="Observation_Date" required>
-            </div>
-
-            <div class="form-group">
                 <label for="Region">Region</label>
                 <select id="Region" name="Region" required>
                     <option value="">Select Region</option>
@@ -306,16 +301,20 @@
                     <option value="No">No</option>
                 </select>
             </div>
+
+            <div class="form-group">
+                <label for="Observation_Date">Observation Date</label>
+                <input type="date" id="Observation_Date" name="Observation_Date" required>
+            </div>
         </div>
 
-        <button type="submit" id="submit-btn">Run Analysis</button>
         <!-- Add this right after your submit button -->
-<div style="display: flex; gap: 10px; margin-top: 30px;">
-    <button type="submit" id="submit-btn" style="flex: 1;">Run Analysis</button>
-    <button type="button" id="sample-btn" style="flex: 0.5; background: transparent; border: 1px solid rgba(255,255,255,0.2); color: #a8d5ba; padding: 16px; border-radius: 8px; font-size: 14px; cursor: pointer; transition: all 0.3s ease; text-transform: uppercase; letter-spacing: 1px;">
-        ⚡ Sample
-    </button>
-</div>
+        <div style="display: flex; gap: 10px; margin-top: 30px;">
+            <button type="submit" id="submit-btn" style="flex: 1;">Run Analysis</button>
+            <button type="button" id="sample-btn" style="flex: 0.5; background: transparent; border: 1px solid rgba(255,255,255,0.2); color: #a8d5ba; padding: 16px; border-radius: 8px; font-size: 14px; cursor: pointer; transition: all 0.3s ease; text-transform: uppercase; letter-spacing: 1px;">
+                ⚡ Sample
+            </button>
+        </div>
     </form>
 
     <div class="loading" id="loading">Initializing prediction model...</div>
@@ -442,7 +441,7 @@ function loadSampleData() {
             'Observation_Date': '2023-07-07',
             'Region': 'Eastern',
             'District': 'Mbale',
-            'Forest_Type': 'Dry Forest',
+            'Forest_Type': 'Woodland',
             'Forest_Area_ha': '9793.89',
             'Tree_Cover_Loss_ha': '575.77',
             'Annual_Rainfall_mm': '1353.5',
