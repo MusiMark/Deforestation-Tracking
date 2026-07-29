@@ -71,24 +71,19 @@ def predict_deforestation_risk(Observation_Date,Region,District,Forest_Type,Fore
 
     df = df.reindex(columns=expected_columns, fill_value=0)
 
+    # Get and load the model
     model_path = os.path.join(BASE_DIR, "random_forest_model.pkl")
     model = joblib.load(model_path)
 
     prediction = model.predict(df)
 
-    # encoder_path = os.path.join(BASE_DIR, 'label_encoder.pkl')
-    # encoder = joblib.load(encoder_path)
+    # Get the label encoder to inverse transform the prediction
+    encoder_path = os.path.join(BASE_DIR, 'label_encoder.pkl')
+    encoder = joblib.load(encoder_path)
 
-    # answer = encoder.inverse_transform(prediction)
+    answer = encoder.inverse_transform(prediction)
 
-    if prediction[0] == 0:
-        answer = "Low"
-    elif prediction[0] == 1:
-        answer = "Medium"
-    else:
-        answer = "High"
-
-    return answer
+    return answer[0]
 
 
 # data = {
@@ -105,6 +100,6 @@ def predict_deforestation_risk(Observation_Date,Region,District,Forest_Type,Fore
 # }
 
 # value = predict_deforestation_risk("2024-06-27", "Central", "Wakiso", "Mangrove", 4179.46, 235.27, 1358.1, 657, 16, "Yes")
-value = predict_deforestation_risk("2021-03-01", "Western", "Kabale", "Woodland",4135.47,288.34,1678.5,375,3,"No")
+# value = predict_deforestation_risk("2021-03-01", "Western", "Kabale", "Woodland",4135.47,288.34,1678.5,375,3,"No")
 
-print(f"Predicted Risk: {value} \nThanks!!!!!" )
+# print(f"Predicted Risk: {value} \nThanks!!!!!" )
